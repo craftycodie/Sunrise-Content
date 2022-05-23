@@ -39,7 +39,7 @@
     },
     "metadata": {
       "uniqueId": 0,
-      "name": "Elimination",
+      "name": "Eliminatio",
       "description": "Players have 3 lives. Four rounds.",
       "author": "",
       "fileType": "GAME_VARIANT_SLAYER",
@@ -110,7 +110,7 @@
       "deadPlayerVoice": false
     },
     "mapOverrides": {
-      "grenadesOnMap": false,
+      "grenadesOnMap": true,
       "indestructibleVehicles": false,
       "baseTraits": {
         "damageResistance": "NORMAL",
@@ -119,7 +119,7 @@
         "headshotImmunity": "ENABLED",
         "shieldMultiplier": "NORMAL_SHIELDS",
         "damageModifier": "PERCENT_100",
-        "primaryWeapon": "SNIPER_RIFLE",
+        "primaryWeapon": "ASSAULT_RIFLE",
         "secondaryWeapon": "UNCHANGED",
         "grenadeCount": "NONE",
         "infiniteAmmo": "ENABLED",
@@ -135,8 +135,8 @@
         "motionTacker": "NORMAL",
         "motionTrackerRange": "METERS_25"
       },
-      "weaponSet": "NO_WEAPONS",
-      "vehicleSet": "NO_VEHICLES",
+      "weaponSet": "MAP_DEFAULT",
+      "vehicleSet": "MAP_DEFAULT",
       "redPowerupTraits": {
         "damageResistance": "INVULNERABLE",
         "shieldRechargeRate": "PERCENT_100",
