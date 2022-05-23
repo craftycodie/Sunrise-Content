@@ -76,11 +76,6 @@
       "description": "<color argb=#FF8692d4>Rockin’ Recon yet?  Snag 7 EXP in this FFA playlist featuring Mythic Maps and you’ll be one step closer.</color>|r|nAll DLC Required|r|nMax Party Size: 7"
     },
     {
-      "identifier": 153,
-      "type": false,
-      "description": "<color argb=#FF8692d4>A 4v4 mix of Double EXP Slayer and Objective gametypes on a whole mess of your own stinkin’ community created maps.</color>|r|nHeroic\\Mythic DLC Req.|r|nTeam Size: 3-4"
-    },
-    {
       "identifier": 113,
       "type": false,
       "description": "<color argb=#FF8692d4>The dead rise again! The clammy claw of the walking dead reaches for you from the grave once more!</color>|r|nAll DLC Required|r|nMax Party Size: 13"
@@ -106,9 +101,9 @@
       "description": "<color argb=#FF8692d4>A mix of games for teams of two. Find a partner and work together. Good teamwork is critical!</color>|r|n|r|nTeam Size: 2|r|nMax Party Size: 4"
     },
     {
-      "identifier": 140,
+      "identifier": 202,
       "type": false,
-      "description": "<color argb=#FF8692d4>A five on five test of teamwork: All CTF, all the time.</color>|r|nAll DLC Required|r|nTeam Size: 3-5|r|nMax Party Size: 10"
+      "description": "<color argb=#FF8692d4>Tactical games for hardcore teams. Work together, or die alone, and remember: don't rush in.</color>|r|n|r|nTeam Size: 3-4|r|nMax Party Size: 8"
     },
     {
       "identifier": 126,
@@ -139,6 +134,11 @@
       "identifier": 11,
       "type": false,
       "description": "DoubleXPWeekend|r|nWeekend long forays into diverse combat scenarios. Winners receive double EXP points."
+    },
+    {
+      "identifier": 9,
+      "type": false,
+      "description": "Experimental|r|nPlaytest our new playlists for a whopping zero EXP!"
     }
   ]
 }
