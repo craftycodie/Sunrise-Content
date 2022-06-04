@@ -1,6 +1,6 @@
 {
   "slayer": {
-    "scoreToWin": 5,
+    "scoreToWin": 50,
     "killPoints": "ONE_POINT",
     "assistPoints": "ZERO_POINTS",
     "deathPoints": "ZERO_POINTS",
@@ -39,14 +39,14 @@
     },
     "metadata": {
       "uniqueId": 0,
-      "name": "Elim Snipers",
-      "description": "Highly tactical Team Slayer. 5 rounds, each to 5 kills. Be careful out there.",
-      "author": "Bungie",
+      "name": "Team Snipers",
+      "description": "Sniper Rifles and Beam Rifles only.  50 points to win.",
+      "author": "",
       "fileType": "GAME_VARIANT_SLAYER",
       "authorIsXuidOnline": false,
       "authorXuid": 0,
-      "sizeInBytes": 1561,
-      "date": 1653342829,
+      "sizeInBytes": 956,
+      "date": 1286834125,
       "lengthSeconds": 0,
       "campaignId": -1,
       "mapId": -1,
@@ -60,8 +60,8 @@
       "teams": true,
       "roundResetPlayers": true,
       "roundResetMap": true,
-      "roundTimeLimitMinutes": 3,
-      "roundLimit": 5,
+      "roundTimeLimitMinutes": 12,
+      "roundLimit": 1,
       "earlyVictoryWinCount": 0
     },
     "respawnOptions": {
@@ -71,7 +71,7 @@
       "respawnOnKills": false,
       "livesPerRound": 0,
       "teamLivesPerRound": 0,
-      "respawnTime": 15,
+      "respawnTime": 5,
       "suicideTime": 10,
       "betrayalTime": 10,
       "respawnGrowthTime": 0,
@@ -110,7 +110,7 @@
       "deadPlayerVoice": false
     },
     "mapOverrides": {
-      "grenadesOnMap": true,
+      "grenadesOnMap": false,
       "indestructibleVehicles": false,
       "baseTraits": {
         "damageResistance": "NORMAL",
@@ -120,8 +120,8 @@
         "shieldMultiplier": "NORMAL_SHIELDS",
         "damageModifier": "PERCENT_100",
         "primaryWeapon": "SNIPER_RIFLE",
-        "secondaryWeapon": "NONE",
-        "grenadeCount": "UNCHANGED",
+        "secondaryWeapon": "UNCHANGED",
+        "grenadeCount": "NONE",
         "infiniteAmmo": "ENABLED",
         "rechargingGrenades": "ENABLED",
         "weaponPickupAllowed": "DISABLED",
@@ -135,8 +135,8 @@
         "motionTacker": "NORMAL",
         "motionTrackerRange": "METERS_25"
       },
-      "weaponSet": "NO_WEAPONS",
-      "vehicleSet": "NO_VEHICLES",
+      "weaponSet": "MAP_DEFAULT",
+      "vehicleSet": "MONGOOSES_ONLY",
       "redPowerupTraits": {
         "damageResistance": "INVULNERABLE",
         "shieldRechargeRate": "PERCENT_100",
