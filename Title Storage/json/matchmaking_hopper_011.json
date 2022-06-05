@@ -3360,14 +3360,14 @@
       "gamerzone_filter": 1,
       "quitter_filter_percentage": 20,
       "quitter_filter_maximum_party_size": 7,
-      "rematch_countdown_timer": 20,
+      "rematch_countdown_timer": 1,
       "rematch_group_formation": 2,
       "repeated_opponents_to_consider_for_penalty": 0,
       "repeated_opponents_experience_threshold": 0,
       "repeated_opponents_skill_throttle_start": 0,
       "repeated_opponents_skill_throttle_stop": 0,
-      "maximum_total_matchmaking_seconds": 15,
-      "gather_start_game_early_seconds": 30,
+      "maximum_total_matchmaking_seconds": 1,
+      "gather_start_game_early_seconds": 1,
       "gather_give_up_seconds": 120,
       "chance_of_gathering": [
         15,
@@ -3521,7 +3521,7 @@
       "big_squad_size_threshold": 0,
       "maximum_big_squad_imbalance": 0,
       "enable_big_squad_mixed_skill_restrictions": false,
-      "allow_uneven_teams": false,
+      "allow_uneven_teams": true,
       "allow_parties_to_split": false
     },
     {
