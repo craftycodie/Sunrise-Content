@@ -3322,7 +3322,7 @@
       "name": "Lightswitch",
       "identifier": 205,
       "category": 8,
-      "type": 2,
+      "type": 0,
       "imageIndex": 11,
       "xLastIndex": 105,
       "richPresenceId": 107,
@@ -3334,7 +3334,7 @@
       "minimumGamesPlayed": 0,
       "maximumGamesPlayed": 0,
       "minimumPartySize": 0,
-      "maximumPartySize": 6,
+      "maximumPartySize": 15,
       "hopperAccessBit": 0,
       "accountTypeAccess": 2,
       "require_all_party_members_meet_games_played_requirements": false,
@@ -3387,7 +3387,7 @@
         0,
         0
       ],
-      "experience_points_per_win": 1,
+      "experience_points_per_win": 2,
       "experience_penalty_per_drop": 1,
       "minimum_mu_per_level": [
         3237953824,
