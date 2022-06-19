@@ -4,7 +4,7 @@ build_script:
   - cd blf
   - 7z a content.zip *
 artifacts:
-  - path: **/content.zip
+  - path: "**/content.zip"
     name: Content (BLF)
 
 on_success:
