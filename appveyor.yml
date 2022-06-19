@@ -1,9 +1,10 @@
 build_script:
   - mkdir blf
   - tools\Sunrise-BlfTool.exe blf json blf
-  - 7z a content.zip blf/*
+  - cd blf
+  - 7z a content.zip *
 artifacts:
-  - path: content.zip
+  - path: **/content.zip
     name: Content (BLF)
 
 on_success:
