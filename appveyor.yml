@@ -1,6 +1,7 @@
 build_script:
-  - tools\Sunrise-BlfTool.exe blf \"Title Storage\\json\" "tools\Sunrise-BlfTool.exe blf \"Title Storage\\blf\"
-  - 7z a content.zip \"./Title Storage/blf/*\"
+  - mkdir blf
+  - tools\Sunrise-BlfTool.exe blf json blf
+  - 7z a content.zip blf/*
 artifacts:
   - path: content.zip
     name: Content (BLF)
