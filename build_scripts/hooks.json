@@ -1,0 +1,7 @@
+[
+    {
+      "id": "redeploy-webhook",
+      "execute-command": "./home/ubuntu/projects/github/Alphabot/build_scripts/redeploy.sh",
+      "command-working-directory": "/home/ubuntu/projects/local/webhooks"
+    }
+  ]
