@@ -1,0 +1,103 @@
+{
+  "gameEntries": [
+    {
+      "gameEntryWeight": 6,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_construct"
+    },
+    {
+      "gameEntryWeight": 7,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_guardian"
+    },
+    {
+      "gameEntryWeight": 6,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_snowbound"
+    },
+    {
+      "gameEntryWeight": 8,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_the_pit"
+    },
+    {
+      "gameEntryWeight": 8,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 520,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_blackout"
+    },
+    {
+      "gameEntryWeight": 6,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_ghost_town"
+    },
+    {
+      "gameEntryWeight": 8,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 490,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_assembly"
+    },
+    {
+      "gameEntryWeight": 8,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 740,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_citadel"
+    },
+    {
+      "gameEntryWeight": 8,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 720,
+      "gameVariantFileName": "team_slayer_odst",
+      "mapVariantFileName": "odst_heretic"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 400,
+      "gameVariantFileName": "odst_escort_large",
+      "mapVariantFileName": "odst_sandtrap"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 580,
+      "gameVariantFileName": "odst_escort",
+      "mapVariantFileName": "odst_rats_nest"
+    }
+  ]
+}
