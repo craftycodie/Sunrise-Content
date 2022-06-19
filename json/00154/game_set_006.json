@@ -1,0 +1,49 @@
+{
+  "gameEntries": [
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 720,
+      "gameVariantFileName": "mlg_ffa",
+      "mapVariantFileName": "mlg_ffa_heretic"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 740,
+      "gameVariantFileName": "mlg_ffa",
+      "mapVariantFileName": "mlg_ffa_citadel"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "mlg_ffa",
+      "mapVariantFileName": "mlg_ffa_guard"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 480,
+      "gameVariantFileName": "mlg_ffa",
+      "mapVariantFileName": "mlg_ffa_ldown"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 490,
+      "gameVariantFileName": "mlg_ffa",
+      "mapVariantFileName": "mlg_ffa_reactor"
+    }
+  ]
+}

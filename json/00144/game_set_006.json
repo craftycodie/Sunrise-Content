@@ -1,0 +1,409 @@
+{
+  "gameEntries": [
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "swat_pit"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 520,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 600,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "default_cold_storage"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 490,
+      "gameVariantFileName": "team_swords",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "swat_pit"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 520,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 600,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "default_cold_storage"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": true,
+      "mapID": 490,
+      "gameVariantFileName": "team_elim_swords",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "swat_pit"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 520,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 600,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "default_cold_storage"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 490,
+      "gameVariantFileName": "team_punchout",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "swat_pit"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 520,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 600,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "default_cold_storage"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 490,
+      "gameVariantFileName": "team_hammers",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "swat_pit"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 520,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 600,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "default_cold_storage"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 490,
+      "gameVariantFileName": "team_king_hammers",
+      "mapVariantFileName": "default_assembly"
+    }
+  ]
+}

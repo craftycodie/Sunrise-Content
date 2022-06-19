@@ -1,0 +1,436 @@
+{
+  "gameEntries": [
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 480,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "default_foundry"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 410,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 580,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 520,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 6,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 490,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 500,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "5v5_team_slayer",
+      "mapVariantFileName": "atlas_reminiscent"
+    },
+    {
+      "gameEntryWeight": 6,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 490,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 500,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 6,
+      "minimumPlayerCount": 2,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 480,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "default_foundry"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 580,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 410,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 520,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "team_slayer_br",
+      "mapVariantFileName": "atlas_pantheon"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 480,
+      "gameVariantFileName": "1_side_ctf",
+      "mapVariantFileName": "foundry_smashed"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 580,
+      "gameVariantFileName": "1_side_ctf",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 410,
+      "gameVariantFileName": "1_side_ctf",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "1_side_ctf",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 500,
+      "gameVariantFileName": "1_side_ctf",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "1_side_ctf",
+      "mapVariantFileName": "sandbox_utahmambo"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 500,
+      "gameVariantFileName": "1_side_ctf_br",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "1_side_ctf_br",
+      "mapVariantFileName": "sandbox_utahmambo"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 480,
+      "gameVariantFileName": "multi_flag_ctf",
+      "mapVariantFileName": "foundry_smashed"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 580,
+      "gameVariantFileName": "multi_flag_ctf",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 410,
+      "gameVariantFileName": "multi_flag_ctf",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 4,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 470,
+      "gameVariantFileName": "multi_flag_ctf",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "multi_flag_ctf",
+      "mapVariantFileName": "atlas_crypticfatev5"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 490,
+      "gameVariantFileName": "multi_flag_ctf_br",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 500,
+      "gameVariantFileName": "multi_flag_ctf_br",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "multi_flag_ctf_br",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "multi_flag_ctf_br",
+      "mapVariantFileName": "sandbox_punishment"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "multi_flag_ctf_br",
+      "mapVariantFileName": "atlas_borderline"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "multi_flag_ctf_br",
+      "mapVariantFileName": "atlas_neoshov2"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 410,
+      "gameVariantFileName": "1_side_assault",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 590,
+      "gameVariantFileName": "1_side_assault",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 500,
+      "gameVariantFileName": "1_side_assault",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "1_side_assault",
+      "mapVariantFileName": "sandbox_utahmambo"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 580,
+      "gameVariantFileName": "neutral_assault",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 410,
+      "gameVariantFileName": "neutral_assault",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 470,
+      "gameVariantFileName": "neutral_assault",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 490,
+      "gameVariantFileName": "neutral_assault",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 500,
+      "gameVariantFileName": "neutral_assault",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "neutral_assault",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 730,
+      "gameVariantFileName": "neutral_assault",
+      "mapVariantFileName": "sandbox_punishment"
+    }
+  ]
+}

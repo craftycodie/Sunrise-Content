@@ -1,0 +1,544 @@
+{
+  "gameEntries": [
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 380,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_narrows"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "year2_epitaph_epilogue"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "year2_the_pit_pitstop"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 310,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 30,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 480,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_foundry"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 520,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 590,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 490,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 730,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 5,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 440,
+      "gameVariantFileName": "team_slayer",
+      "mapVariantFileName": "default_longshore"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 380,
+      "gameVariantFileName": "team_oddball",
+      "mapVariantFileName": "default_narrows"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_oddball",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_oddball",
+      "mapVariantFileName": "year2_the_pit_pitstop"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 480,
+      "gameVariantFileName": "team_oddball",
+      "mapVariantFileName": "default_foundry"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 520,
+      "gameVariantFileName": "team_oddball",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 590,
+      "gameVariantFileName": "team_oddball",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 5,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 490,
+      "gameVariantFileName": "team_oddball",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 730,
+      "gameVariantFileName": "team_oddball",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 380,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_narrows"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "year2_epitaph_epilogue"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 480,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_foundry"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 520,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 590,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 490,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 730,
+      "gameVariantFileName": "team_crazy_king",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 380,
+      "gameVariantFileName": "2v2_vip",
+      "mapVariantFileName": "default_narrows"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "2v2_vip",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "2v2_vip",
+      "mapVariantFileName": "year2_the_pit_pitstop"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 310,
+      "gameVariantFileName": "2v2_vip",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 30,
+      "gameVariantFileName": "2v2_vip",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": false,
+      "mapID": 340,
+      "gameVariantFileName": "2v2_vip",
+      "mapVariantFileName": "default_valhalla"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 520,
+      "gameVariantFileName": "2v2_vip",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 590,
+      "gameVariantFileName": "2v2_vip",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "2v2_team_swords",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 380,
+      "gameVariantFileName": "2v2_team_swords",
+      "mapVariantFileName": "default_narrows"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "2v2_team_swords",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "2v2_team_swords",
+      "mapVariantFileName": "swat_pit"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "2v2_team_swords",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "2v2_team_swords",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": true,
+      "mapID": 520,
+      "gameVariantFileName": "2v2_team_swords",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 3,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": true,
+      "mapID": 590,
+      "gameVariantFileName": "2v2_team_swords",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 300,
+      "gameVariantFileName": "2v2_team_hammers",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 320,
+      "gameVariantFileName": "2v2_team_hammers",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 390,
+      "gameVariantFileName": "2v2_team_hammers",
+      "mapVariantFileName": "swat_pit"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 350,
+      "gameVariantFileName": "2v2_team_hammers",
+      "mapVariantFileName": "default_epitaph"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": false,
+      "mapID": 360,
+      "gameVariantFileName": "2v2_team_hammers",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": true,
+      "optional": true,
+      "mapID": 520,
+      "gameVariantFileName": "2v2_team_hammers",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": true,
+      "optional": true,
+      "mapID": 590,
+      "gameVariantFileName": "2v2_team_hammers",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 400,
+      "gameVariantFileName": "rocket_race",
+      "mapVariantFileName": "race_sandtrap_speed"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 340,
+      "gameVariantFileName": "rocket_race",
+      "mapVariantFileName": "race_valhalla_speed"
+    },
+    {
+      "gameEntryWeight": 2,
+      "minimumPlayerCount": 6,
+      "skipAfterVeto": false,
+      "optional": true,
+      "mapID": 580,
+      "gameVariantFileName": "rocket_race",
+      "mapVariantFileName": "race_rats_nest_speed"
+    }
+  ]
+}
