@@ -1,0 +1,5580 @@
+{
+  "metadata": {
+    "uniqueId": 0,
+    "name": "Frostbite",
+    "description": "A floating race track with tons of bank turns and a whole lot of fun! Made by Last Chaos 7 . RACETRACKS",
+    "author": "Last Chaos 7",
+    "fileType": "MAP_VARIANT",
+    "authorIsXuidOnline": true,
+    "authorXuid": "0x0009000001999BDA",
+    "sizeInBytes": 57840,
+    "date": 1230564758,
+    "lengthSeconds": 0,
+    "campaignId": -1,
+    "mapId": 470,
+    "gameEngineType": 0,
+    "campaignDifficulty": 0,
+    "hopperId": -1,
+    "gameId": 0
+  },
+  "mapVariantVersion": 12,
+  "mapVariantChecksum": "0x1CC05515",
+  "numberOfScenarioObjects": 359,
+  "mapID": 470,
+  "builtIn": false,
+  "worldBounds": {
+    "xMin": -1018040058,
+    "xMax": 1129670744,
+    "yMin": -1015822799,
+    "yMax": 1122680174,
+    "zMin": -1031555645,
+    "zMax": 1124563636
+  },
+  "gameEngineSubtype": 10,
+  "maximumBudget": 800.0,
+  "spentBudget": 685.0,
+  "objects": [
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 106
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 106
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 106
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 106
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 106
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 97
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 98
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 98
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 97
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "flags": 9,
+      "definitionIndex": 104
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 102
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {},
+    {},
+    {
+      "flags": 9,
+      "definitionIndex": 100
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 99
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 100
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 99
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 99
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 103
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 101
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 9,
+      "definitionIndex": 104
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {
+      "flags": 41,
+      "definitionIndex": -1
+    },
+    {},
+    {},
+    {
+      "flags": 137,
+      "definitionIndex": 107
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 107
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 108
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 108
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 109
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 109
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 110
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 110
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 111
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 111
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 112
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 112
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 113
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 113
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 114
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 114
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 115
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 115
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 116
+    },
+    {
+      "flags": 137,
+      "definitionIndex": 116
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 28579,
+        "y": -22232,
+        "z": 24539
+      },
+      "axis": {
+        "upQuantization": 273429,
+        "forwardAngle": 1
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 28594,
+        "y": -21871,
+        "z": 24561
+      },
+      "axis": {
+        "upQuantization": 273429,
+        "forwardAngle": 1
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 78,
+      "position": {
+        "x": 28919,
+        "y": -22376,
+        "z": 24543
+      },
+      "axis": {
+        "upQuantization": 246738,
+        "forwardAngle": 158
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 78,
+      "position": {
+        "x": 28376,
+        "y": -22365,
+        "z": 24518
+      },
+      "axis": {
+        "upQuantization": 248802,
+        "forwardAngle": 93
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 56,
+      "position": {
+        "x": 28839,
+        "y": -21376,
+        "z": 24453
+      },
+      "axis": {
+        "upQuantization": 318428,
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 56,
+      "position": {
+        "x": 28562,
+        "y": -21363,
+        "z": 24452
+      },
+      "axis": {
+        "upQuantization": 314332,
+        "forwardAngle": 128
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 1,
+      "position": {
+        "x": 28895,
+        "y": -22201,
+        "z": 24560
+      },
+      "axis": {
+        "upQuantization": 254946,
+        "forwardAngle": 188
+      },
+      "propertiesCachedObjectType": 6,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 1,
+      "position": {
+        "x": 28756,
+        "y": -22209,
+        "z": 24552
+      },
+      "axis": {
+        "upQuantization": 256994,
+        "forwardAngle": 190
+      },
+      "propertiesCachedObjectType": 6,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 1,
+      "position": {
+        "x": 28627,
+        "y": -22224,
+        "z": 24545
+      },
+      "axis": {
+        "upQuantization": 254946,
+        "forwardAngle": 190
+      },
+      "propertiesCachedObjectType": 6,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 1,
+      "position": {
+        "x": 28495,
+        "y": -22205,
+        "z": 24539
+      },
+      "axis": {
+        "upQuantization": 256994,
+        "forwardAngle": 188
+      },
+      "propertiesCachedObjectType": 6,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 78,
+      "position": {
+        "x": 28779,
+        "y": -22363,
+        "z": 24537
+      },
+      "axis": {
+        "upQuantization": 250850,
+        "forwardAngle": 141
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 78,
+      "position": {
+        "x": 28529,
+        "y": -22360,
+        "z": 24526
+      },
+      "axis": {
+        "upQuantization": 248794,
+        "forwardAngle": 115
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 56,
+      "position": {
+        "x": 28845,
+        "y": -21074,
+        "z": 24228
+      },
+      "axis": {
+        "upQuantization": 363484,
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 56,
+      "position": {
+        "x": 28569,
+        "y": -21059,
+        "z": 24235
+      },
+      "axis": {
+        "upQuantization": 363476,
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 56,
+      "position": {
+        "x": 28852,
+        "y": -20799,
+        "z": 23909
+      },
+      "axis": {
+        "upQuantization": 433108,
+        "forwardAngle": 126
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 56,
+      "position": {
+        "x": 28575,
+        "y": -20792,
+        "z": 23893
+      },
+      "axis": {
+        "upQuantization": 445396,
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 57,
+      "position": {
+        "x": 28864,
+        "y": -20524,
+        "z": 23562
+      },
+      "axis": {
+        "upQuantization": 99369,
+        "forwardAngle": 128
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28727,
+        "y": -19235,
+        "z": 22332
+      },
+      "axis": {
+        "upQuantization": 213994,
+        "forwardAngle": 76
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 58,
+      "position": {
+        "x": 27897,
+        "y": -18421,
+        "z": 23698
+      },
+      "axis": {
+        "upQuantization": 365372,
+        "forwardAngle": 70
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 58,
+      "position": {
+        "x": 28356,
+        "y": -18790,
+        "z": 24188
+      },
+      "axis": {
+        "upQuantization": 156849,
+        "forwardAngle": 181
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 56,
+      "position": {
+        "x": 28853,
+        "y": -20799,
+        "z": 23908
+      },
+      "axis": {
+        "upQuantization": 80937,
+        "forwardAngle": 128
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 56,
+      "position": {
+        "x": 28578,
+        "y": -20792,
+        "z": 23893
+      },
+      "axis": {
+        "upQuantization": 82977,
+        "forwardAngle": 0
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 57,
+      "position": {
+        "x": 28591,
+        "y": -20517,
+        "z": 23549
+      },
+      "axis": {
+        "upQuantization": 107561,
+        "forwardAngle": 254
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 57,
+      "position": {
+        "x": 28888,
+        "y": -19957,
+        "z": 23063
+      },
+      "axis": {
+        "upQuantization": 353228,
+        "forwardAngle": 126
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 57,
+      "position": {
+        "x": 28609,
+        "y": -19944,
+        "z": 23071
+      },
+      "axis": {
+        "upQuantization": 353228,
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 57,
+      "position": {
+        "x": 28902,
+        "y": -19639,
+        "z": 22934
+      },
+      "axis": {
+        "upQuantization": 310220,
+        "forwardAngle": 126
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 57,
+      "position": {
+        "x": 28625,
+        "y": -19627,
+        "z": 22936
+      },
+      "axis": {
+        "upQuantization": 310236,
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 58,
+      "position": {
+        "x": 27874,
+        "y": -19049,
+        "z": 24074
+      },
+      "axis": {
+        "upQuantization": 282900,
+        "forwardAngle": 73
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28731,
+        "y": -19518,
+        "z": 22326
+      },
+      "axis": {
+        "upQuantization": 273378,
+        "forwardAngle": 65
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28638,
+        "y": -19033,
+        "z": 22399
+      },
+      "axis": {
+        "upQuantization": 185354,
+        "forwardAngle": 86
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28527,
+        "y": -18860,
+        "z": 22491
+      },
+      "axis": {
+        "upQuantization": 189426,
+        "forwardAngle": 92
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28401,
+        "y": -18731,
+        "z": 22552
+      },
+      "axis": {
+        "upQuantization": 175138,
+        "forwardAngle": 103
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28252,
+        "y": -18624,
+        "z": 22617
+      },
+      "axis": {
+        "upQuantization": 156746,
+        "forwardAngle": 110
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28111,
+        "y": -18549,
+        "z": 22664
+      },
+      "axis": {
+        "upQuantization": 173034,
+        "forwardAngle": 111
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27903,
+        "y": -18507,
+        "z": 22669
+      },
+      "axis": {
+        "upQuantization": 177146,
+        "forwardAngle": 118
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27681,
+        "y": -18491,
+        "z": 22681
+      },
+      "axis": {
+        "upQuantization": 187482,
+        "forwardAngle": 113
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27538,
+        "y": -18379,
+        "z": 22738
+      },
+      "axis": {
+        "upQuantization": 197762,
+        "forwardAngle": 104
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27360,
+        "y": -18254,
+        "z": 22823
+      },
+      "axis": {
+        "upQuantization": 189762,
+        "forwardAngle": 166
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27263,
+        "y": -18170,
+        "z": 22929
+      },
+      "axis": {
+        "upQuantization": 199962,
+        "forwardAngle": 155
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27184,
+        "y": -17993,
+        "z": 23040
+      },
+      "axis": {
+        "upQuantization": 206130,
+        "forwardAngle": 149
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27105,
+        "y": -17801,
+        "z": 23168
+      },
+      "axis": {
+        "upQuantization": 204082,
+        "forwardAngle": 142
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27080,
+        "y": -17629,
+        "z": 23252
+      },
+      "axis": {
+        "upQuantization": 204082,
+        "forwardAngle": 134
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27097,
+        "y": -17443,
+        "z": 23328
+      },
+      "axis": {
+        "upQuantization": 169266,
+        "forwardAngle": 53
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27171,
+        "y": -17295,
+        "z": 23374
+      },
+      "axis": {
+        "upQuantization": 169266,
+        "forwardAngle": 42
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27255,
+        "y": -17167,
+        "z": 23399
+      },
+      "axis": {
+        "upQuantization": 156938,
+        "forwardAngle": 26
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 27805,
+        "y": -20607,
+        "z": 22617
+      },
+      "axis": {
+        "upQuantization": 171405,
+        "forwardAngle": 166
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 65,
+      "position": {
+        "x": 28207,
+        "y": -18237,
+        "z": 23348
+      },
+      "axis": {
+        "upQuantization": 363669,
+        "forwardAngle": 6
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 50,
+      "position": {
+        "x": 28287,
+        "y": -17372,
+        "z": 23302
+      },
+      "axis": {
+        "upQuantization": 176794,
+        "forwardAngle": 146
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 61,
+      "position": {
+        "x": 28572,
+        "y": -21852,
+        "z": 24964
+      },
+      "axis": {
+        "upQuantization": 238500,
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 59,
+      "position": {
+        "x": 28249,
+        "y": -22676,
+        "z": 25197
+      },
+      "axis": {
+        "upQuantization": 42341,
+        "forwardAngle": 194
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 62,
+      "position": {
+        "x": 28458,
+        "y": -21889,
+        "z": 24985
+      },
+      "axis": {
+        "upQuantization": 238586,
+        "forwardAngle": 46
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 64,
+      "position": {
+        "x": 28443,
+        "y": -21898,
+        "z": 25121
+      },
+      "axis": {
+        "upQuantization": 284105,
+        "forwardAngle": 254
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 62,
+      "position": {
+        "x": 28682,
+        "y": -21911,
+        "z": 24982
+      },
+      "axis": {
+        "upQuantization": 238586,
+        "forwardAngle": 43
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 65,
+      "position": {
+        "x": 27536,
+        "y": -19542,
+        "z": 24373
+      },
+      "axis": {
+        "upQuantization": 312042,
+        "forwardAngle": 99
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 61,
+      "position": {
+        "x": 29004,
+        "y": -21549,
+        "z": 24266
+      },
+      "axis": {
+        "upQuantization": 375882,
+        "forwardAngle": 63
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 64,
+      "position": {
+        "x": 28668,
+        "y": -21919,
+        "z": 25118
+      },
+      "axis": {
+        "upQuantization": 282161,
+        "forwardAngle": 254
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 61,
+      "position": {
+        "x": 29024,
+        "y": -21276,
+        "z": 24020
+      },
+      "axis": {
+        "upQuantization": 382050,
+        "forwardAngle": 64
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 61,
+      "position": {
+        "x": 29033,
+        "y": -20941,
+        "z": 23656
+      },
+      "axis": {
+        "upQuantization": 467946,
+        "forwardAngle": 62
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27406,
+        "y": -17024,
+        "z": 23406
+      },
+      "axis": {
+        "upQuantization": 111698,
+        "forwardAngle": 13
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27596,
+        "y": -16975,
+        "z": 23434
+      },
+      "axis": {
+        "upQuantization": 107482,
+        "forwardAngle": 4
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27794,
+        "y": -16972,
+        "z": 23456
+      },
+      "axis": {
+        "upQuantization": 103250,
+        "forwardAngle": 124
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 27907,
+        "y": -16956,
+        "z": 23512
+      },
+      "axis": {
+        "upQuantization": 101210,
+        "forwardAngle": 108
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28062,
+        "y": -17084,
+        "z": 23432
+      },
+      "axis": {
+        "upQuantization": 111402,
+        "forwardAngle": 101
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 49,
+      "position": {
+        "x": 28175,
+        "y": -17210,
+        "z": 23357
+      },
+      "axis": {
+        "upQuantization": 121610,
+        "forwardAngle": 90
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 50,
+      "position": {
+        "x": 28300,
+        "y": -17540,
+        "z": 23241
+      },
+      "axis": {
+        "upQuantization": 227954,
+        "forwardAngle": 125
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 50,
+      "position": {
+        "x": 28325,
+        "y": -17801,
+        "z": 23187
+      },
+      "axis": {
+        "upQuantization": 250562,
+        "forwardAngle": 126
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 50,
+      "position": {
+        "x": 28295,
+        "y": -18059,
+        "z": 23139
+      },
+      "axis": {
+        "upQuantization": 271098,
+        "forwardAngle": 122
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 61,
+      "position": {
+        "x": 29023,
+        "y": -20635,
+        "z": 23235
+      },
+      "axis": {
+        "upQuantization": 427058,
+        "forwardAngle": 64
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 59,
+      "position": {
+        "x": 27975,
+        "y": -22493,
+        "z": 24732
+      },
+      "axis": {
+        "upQuantization": 30117,
+        "forwardAngle": 64
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 61,
+      "position": {
+        "x": 29022,
+        "y": -20264,
+        "z": 22857
+      },
+      "axis": {
+        "upQuantization": 394274,
+        "forwardAngle": 62
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 57,
+      "position": {
+        "x": 28058,
+        "y": -18133,
+        "z": 23593
+      },
+      "axis": {
+        "upQuantization": 338772,
+        "forwardAngle": 135
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 57,
+      "position": {
+        "x": 28324,
+        "y": -18178,
+        "z": 23739
+      },
+      "axis": {
+        "upQuantization": 338772,
+        "forwardAngle": 136
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 65,
+      "position": {
+        "x": 28423,
+        "y": -18405,
+        "z": 23326
+      },
+      "axis": {
+        "upQuantization": 304173,
+        "forwardAngle": 144
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 58,
+      "position": {
+        "x": 27809,
+        "y": -19031,
+        "z": 24079
+      },
+      "axis": {
+        "upQuantization": 191641,
+        "forwardAngle": 247
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 58,
+      "position": {
+        "x": 28354,
+        "y": -18791,
+        "z": 24179
+      },
+      "axis": {
+        "upQuantization": 336724,
+        "forwardAngle": 137
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 50,
+      "position": {
+        "x": 28314,
+        "y": -17784,
+        "z": 23183
+      },
+      "axis": {
+        "upQuantization": 205434,
+        "forwardAngle": 124
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 50,
+      "position": {
+        "x": 27695,
+        "y": -18456,
+        "z": 22695
+      },
+      "axis": {
+        "upQuantization": 187378,
+        "forwardAngle": 114
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 51,
+      "position": {
+        "x": 27273,
+        "y": -18368,
+        "z": 22838
+      },
+      "axis": {
+        "upQuantization": 191754,
+        "forwardAngle": 169
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 51,
+      "position": {
+        "x": 27452,
+        "y": -18127,
+        "z": 22881
+      },
+      "axis": {
+        "upQuantization": 212122,
+        "forwardAngle": 96
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 58,
+      "position": {
+        "x": 27766,
+        "y": -19358,
+        "z": 24136
+      },
+      "axis": {
+        "upQuantization": 234649,
+        "forwardAngle": 246
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 14,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 58,
+      "position": {
+        "x": 28310,
+        "y": -19102,
+        "z": 24345
+      },
+      "axis": {
+        "upQuantization": 293780,
+        "forwardAngle": 138
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 14,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 58,
+      "position": {
+        "x": 28094,
+        "y": -19663,
+        "z": 24448
+      },
+      "axis": {
+        "upQuantization": 247577,
+        "forwardAngle": 178
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 27494,
+        "y": -20302,
+        "z": 24121
+      },
+      "axis": {
+        "upQuantization": 245117,
+        "forwardAngle": 91
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 27187,
+        "y": -20463,
+        "z": 23889
+      },
+      "axis": {
+        "upQuantization": 245133,
+        "forwardAngle": 219
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 27111,
+        "y": -20861,
+        "z": 23840
+      },
+      "axis": {
+        "upQuantization": 257397,
+        "forwardAngle": 92
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 26927,
+        "y": -21073,
+        "z": 23754
+      },
+      "axis": {
+        "upQuantization": 214205,
+        "forwardAngle": 92
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 27881,
+        "y": -19703,
+        "z": 24304
+      },
+      "axis": {
+        "upQuantization": 212229,
+        "forwardAngle": 89
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 66,
+      "position": {
+        "x": 28422,
+        "y": -20680,
+        "z": 23787
+      },
+      "axis": {
+        "upQuantization": 70881,
+        "forwardAngle": 59
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 66,
+      "position": {
+        "x": 28430,
+        "y": -20454,
+        "z": 23502
+      },
+      "axis": {
+        "upQuantization": 68769,
+        "forwardAngle": 65
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 60,
+      "position": {
+        "x": 28462,
+        "y": -20042,
+        "z": 22813
+      },
+      "axis": {
+        "upQuantization": 119682,
+        "forwardAngle": 61
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 65,
+      "position": {
+        "x": 27994,
+        "y": -20008,
+        "z": 24421
+      },
+      "axis": {
+        "upQuantization": 315986,
+        "forwardAngle": 102
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 65,
+      "position": {
+        "x": 27709,
+        "y": -20440,
+        "z": 24294
+      },
+      "axis": {
+        "upQuantization": 299530,
+        "forwardAngle": 100
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 45,
+      "position": {
+        "x": 28340,
+        "y": -18391,
+        "z": 23510
+      },
+      "axis": {
+        "upQuantization": 408660,
+        "forwardAngle": 55
+      },
+      "propertiesCachedObjectType": 4,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 27575,
+        "y": -19910,
+        "z": 24134
+      },
+      "axis": {
+        "upQuantization": 241005,
+        "forwardAngle": 218
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 26797,
+        "y": -21263,
+        "z": 23813
+      },
+      "axis": {
+        "upQuantization": 154613,
+        "forwardAngle": 157
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 26482,
+        "y": -20668,
+        "z": 23483
+      },
+      "axis": {
+        "upQuantization": 180493,
+        "forwardAngle": 42
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 26315,
+        "y": -20368,
+        "z": 23579
+      },
+      "axis": {
+        "upQuantization": 180493,
+        "forwardAngle": 42
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 26730,
+        "y": -21341,
+        "z": 23892
+      },
+      "axis": {
+        "upQuantization": 105229,
+        "forwardAngle": 167
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 26615,
+        "y": -21402,
+        "z": 24029
+      },
+      "axis": {
+        "upQuantization": 98997,
+        "forwardAngle": 172
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 26529,
+        "y": -21413,
+        "z": 24104
+      },
+      "axis": {
+        "upQuantization": 92757,
+        "forwardAngle": 185
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 26399,
+        "y": -21395,
+        "z": 24200
+      },
+      "axis": {
+        "upQuantization": 92757,
+        "forwardAngle": 192
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 26323,
+        "y": -21336,
+        "z": 24204
+      },
+      "axis": {
+        "upQuantization": 106893,
+        "forwardAngle": 154
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 28449,
+        "y": -18168,
+        "z": 24040
+      },
+      "axis": {
+        "upQuantization": 340744,
+        "forwardAngle": 113
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 26251,
+        "y": -21283,
+        "z": 24238
+      },
+      "axis": {
+        "upQuantization": 149693,
+        "forwardAngle": 170
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 26016,
+        "y": -21114,
+        "z": 24535
+      },
+      "axis": {
+        "upQuantization": 166029,
+        "forwardAngle": 170
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 25863,
+        "y": -20802,
+        "z": 24618
+      },
+      "axis": {
+        "upQuantization": 166021,
+        "forwardAngle": 170
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 60,
+      "position": {
+        "x": 25972,
+        "y": -20383,
+        "z": 24030
+      },
+      "axis": {
+        "upQuantization": 121322,
+        "forwardAngle": 30
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 26749,
+        "y": -20477,
+        "z": 22892
+      },
+      "axis": {
+        "upQuantization": 272933,
+        "forwardAngle": 179
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 27039,
+        "y": -20084,
+        "z": 22642
+      },
+      "axis": {
+        "upQuantization": 295829,
+        "forwardAngle": 193
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 26581,
+        "y": -20589,
+        "z": 23299
+      },
+      "axis": {
+        "upQuantization": 205237,
+        "forwardAngle": 172
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 26445,
+        "y": -20264,
+        "z": 23343
+      },
+      "axis": {
+        "upQuantization": 203181,
+        "forwardAngle": 172
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 53,
+      "position": {
+        "x": 26677,
+        "y": -20128,
+        "z": 22987
+      },
+      "axis": {
+        "upQuantization": 272933,
+        "forwardAngle": 179
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 61,
+      "position": {
+        "x": 28521,
+        "y": -22084,
+        "z": 24944
+      },
+      "axis": {
+        "upQuantization": 312508,
+        "forwardAngle": 134
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 61,
+      "position": {
+        "x": 29041,
+        "y": -19906,
+        "z": 22619
+      },
+      "axis": {
+        "upQuantization": 353386,
+        "forwardAngle": 57
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 76,
+      "position": {
+        "x": 29808,
+        "y": -10386,
+        "z": 20289
+      },
+      "axis": {
+        "upQuantization": 320418,
+        "forwardAngle": 136
+      },
+      "propertiesCachedObjectType": 11,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 10,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 273,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 0
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 27070,
+        "y": -20162,
+        "z": 22648
+      },
+      "axis": {
+        "upQuantization": 285445,
+        "forwardAngle": 115
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 27192,
+        "y": -20081,
+        "z": 22610
+      },
+      "axis": {
+        "upQuantization": 295845,
+        "forwardAngle": 202
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 27335,
+        "y": -20131,
+        "z": 22573
+      },
+      "axis": {
+        "upQuantization": 293789,
+        "forwardAngle": 207
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 27446,
+        "y": -20216,
+        "z": 22532
+      },
+      "axis": {
+        "upQuantization": 291765,
+        "forwardAngle": 216
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 27599,
+        "y": -20328,
+        "z": 22501
+      },
+      "axis": {
+        "upQuantization": 271405,
+        "forwardAngle": 158
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 54,
+      "position": {
+        "x": 27711,
+        "y": -20458,
+        "z": 22519
+      },
+      "axis": {
+        "upQuantization": 226533,
+        "forwardAngle": 164
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 59,
+      "position": {
+        "x": 27895,
+        "y": -20809,
+        "z": 22805
+      },
+      "axis": {
+        "upQuantization": 167317,
+        "forwardAngle": 106
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 59,
+      "position": {
+        "x": 27939,
+        "y": -21020,
+        "z": 22992
+      },
+      "axis": {
+        "upQuantization": 112157,
+        "forwardAngle": 57
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 59,
+      "position": {
+        "x": 27981,
+        "y": -21372,
+        "z": 23397
+      },
+      "axis": {
+        "upQuantization": 103973,
+        "forwardAngle": 59
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 59,
+      "position": {
+        "x": 28006,
+        "y": -21793,
+        "z": 23859
+      },
+      "axis": {
+        "upQuantization": 114197,
+        "forwardAngle": 85
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 59,
+      "position": {
+        "x": 27973,
+        "y": -22148,
+        "z": 24257
+      },
+      "axis": {
+        "upQuantization": 62949,
+        "forwardAngle": 60
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 180,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 65,
+      "position": {
+        "x": 27239,
+        "y": -20003,
+        "z": 24203
+      },
+      "axis": {
+        "upQuantization": 277114,
+        "forwardAngle": 101
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 65,
+      "position": {
+        "x": 26944,
+        "y": -20456,
+        "z": 24013
+      },
+      "axis": {
+        "upQuantization": 275114,
+        "forwardAngle": 99
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 66,
+      "position": {
+        "x": 28410,
+        "y": -20914,
+        "z": 24045
+      },
+      "axis": {
+        "upQuantization": 107697,
+        "forwardAngle": 65
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 66,
+      "position": {
+        "x": 28411,
+        "y": -21150,
+        "z": 24256
+      },
+      "axis": {
+        "upQuantization": 152721,
+        "forwardAngle": 61
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 59,
+      "position": {
+        "x": 28659,
+        "y": -22611,
+        "z": 25388
+      },
+      "axis": {
+        "upQuantization": 42333,
+        "forwardAngle": 40
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 60,
+      "position": {
+        "x": 26803,
+        "y": -20734,
+        "z": 23705
+      },
+      "axis": {
+        "upQuantization": 258100,
+        "forwardAngle": 75
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 75,
+      "position": {
+        "x": 28394,
+        "y": -21897,
+        "z": 25077
+      },
+      "axis": {
+        "upQuantization": 258968,
+        "forwardAngle": 3
+      },
+      "propertiesCachedObjectType": 10,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 10,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 437,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 273
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 75,
+      "position": {
+        "x": 28758,
+        "y": -21941,
+        "z": 25071
+      },
+      "axis": {
+        "upQuantization": 263299,
+        "forwardAngle": 124
+      },
+      "propertiesCachedObjectType": 10,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 10,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 437,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 273
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 55,
+      "position": {
+        "x": 28759,
+        "y": -21993,
+        "z": 24983
+      },
+      "axis": {
+        "upQuantization": 240650,
+        "forwardAngle": 59
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 55,
+      "position": {
+        "x": 28383,
+        "y": -21941,
+        "z": 25165
+      },
+      "axis": {
+        "upQuantization": 283653,
+        "forwardAngle": 195
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 65,
+      "position": {
+        "x": 27412,
+        "y": -20903,
+        "z": 24144
+      },
+      "axis": {
+        "upQuantization": 297530,
+        "forwardAngle": 98
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 75,
+      "position": {
+        "x": 27032,
+        "y": -18935,
+        "z": 19986
+      },
+      "axis": {
+        "upQuantization": 197570,
+        "forwardAngle": 64
+      },
+      "propertiesCachedObjectType": 10,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 437,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 273
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 75,
+      "position": {
+        "x": 29241,
+        "y": -15559,
+        "z": 19915
+      },
+      "axis": {
+        "upQuantization": 297938,
+        "forwardAngle": 59
+      },
+      "propertiesCachedObjectType": 10,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 437,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 273
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 105,
+      "position": {
+        "x": 28573,
+        "y": -21917,
+        "z": 24990
+      },
+      "axis": {
+        "upQuantization": 238586,
+        "forwardAngle": 58
+      },
+      "propertiesCachedObjectType": 22,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "BOX",
+      "propertiesShapeRadiusWidth": 2731,
+      "propertiesShapeDepth": 546,
+      "propertiesShapeTop": 546,
+      "propertiesShapeBottom": 0
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 1,
+      "position": {
+        "x": 28889,
+        "y": -21857,
+        "z": 24579
+      },
+      "axis": {
+        "upQuantization": 256994,
+        "forwardAngle": 188
+      },
+      "propertiesCachedObjectType": 6,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 1,
+      "position": {
+        "x": 28754,
+        "y": -21853,
+        "z": 24573
+      },
+      "axis": {
+        "upQuantization": 254946,
+        "forwardAngle": 190
+      },
+      "propertiesCachedObjectType": 6,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 1,
+      "position": {
+        "x": 28615,
+        "y": -21853,
+        "z": 24568
+      },
+      "axis": {
+        "upQuantization": 254946,
+        "forwardAngle": 188
+      },
+      "propertiesCachedObjectType": 6,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 1,
+      "position": {
+        "x": 28493,
+        "y": -21837,
+        "z": 24562
+      },
+      "axis": {
+        "upQuantization": 254946,
+        "forwardAngle": 189
+      },
+      "propertiesCachedObjectType": 6,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 85,
+      "position": {
+        "x": 28898,
+        "y": -21649,
+        "z": 24575
+      },
+      "axis": {
+        "upQuantization": 318458,
+        "forwardAngle": 253
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 0
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 85,
+      "position": {
+        "x": 28753,
+        "y": -21635,
+        "z": 24569
+      },
+      "axis": {
+        "upQuantization": 318458,
+        "forwardAngle": 253
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 1
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 85,
+      "position": {
+        "x": 28615,
+        "y": -21637,
+        "z": 24570
+      },
+      "axis": {
+        "upQuantization": 314338,
+        "forwardAngle": 254
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 2
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 85,
+      "position": {
+        "x": 28483,
+        "y": -21629,
+        "z": 24559
+      },
+      "axis": {
+        "upQuantization": 314338,
+        "forwardAngle": 253
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 3
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 85,
+      "position": {
+        "x": 28904,
+        "y": -22052,
+        "z": 24567
+      },
+      "axis": {
+        "upQuantization": 277474,
+        "forwardAngle": 254
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 4
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 85,
+      "position": {
+        "x": 28749,
+        "y": -22045,
+        "z": 24560
+      },
+      "axis": {
+        "upQuantization": 277482,
+        "forwardAngle": 250
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 5
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 85,
+      "position": {
+        "x": 28628,
+        "y": -22047,
+        "z": 24555
+      },
+      "axis": {
+        "upQuantization": 279530,
+        "forwardAngle": 250
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 6
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 85,
+      "position": {
+        "x": 28498,
+        "y": -22031,
+        "z": 24548
+      },
+      "axis": {
+        "upQuantization": 273386,
+        "forwardAngle": 5
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 128,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 7
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 78,
+      "position": {
+        "x": 28649,
+        "y": -22357,
+        "z": 24532
+      },
+      "axis": {
+        "upQuantization": 246754,
+        "forwardAngle": 130
+      },
+      "propertiesCachedObjectType": 12,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 0,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 60,
+      "position": {
+        "x": 26901,
+        "y": -18201,
+        "z": 23713
+      },
+      "axis": {
+        "upQuantization": 214636,
+        "forwardAngle": 53
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 60,
+      "position": {
+        "x": 26919,
+        "y": -18258,
+        "z": 23269
+      },
+      "axis": {
+        "upQuantization": 202026,
+        "forwardAngle": 28
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 60,
+      "position": {
+        "x": 26816,
+        "y": -18024,
+        "z": 23416
+      },
+      "axis": {
+        "upQuantization": 204002,
+        "forwardAngle": 140
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 60,
+      "position": {
+        "x": 26877,
+        "y": -18125,
+        "z": 23689
+      },
+      "axis": {
+        "upQuantization": 428817,
+        "forwardAngle": 205
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 75,
+      "position": {
+        "x": 29127,
+        "y": -17825,
+        "z": 20385
+      },
+      "axis": {
+        "upQuantization": 250746,
+        "forwardAngle": 126
+      },
+      "propertiesCachedObjectType": 10,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 437,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 273
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 75,
+      "position": {
+        "x": 28695,
+        "y": -21098,
+        "z": 20088
+      },
+      "axis": {
+        "upQuantization": 289610,
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 10,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 437,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 273
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 75,
+      "position": {
+        "x": 27235,
+        "y": -21878,
+        "z": 19997
+      },
+      "axis": {
+        "upQuantization": 298034,
+        "forwardAngle": 64
+      },
+      "propertiesCachedObjectType": 10,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 437,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 273
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 75,
+      "position": {
+        "x": 27296,
+        "y": -15155,
+        "z": 19902
+      },
+      "axis": {
+        "upQuantization": 215994,
+        "forwardAngle": 65
+      },
+      "propertiesCachedObjectType": 10,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 437,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 273
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 52,
+      "position": {
+        "x": 29086,
+        "y": -22052,
+        "z": 24572
+      },
+      "axis": {
+        "upQuantization": 254970,
+        "forwardAngle": 62
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 76,
+      "position": {
+        "x": 29068,
+        "y": -22053,
+        "z": 24588
+      },
+      "axis": {
+        "upQuantization": 254970,
+        "forwardAngle": 193
+      },
+      "propertiesCachedObjectType": 11,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8,
+      "propertiesShapeType": "CYLINDER",
+      "propertiesShapeRadiusWidth": 273,
+      "propertiesShapeDepth": 1092,
+      "propertiesShapeTop": 0
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 62,
+      "position": {
+        "x": 29152,
+        "y": -22043,
+        "z": 24588
+      },
+      "axis": {
+        "upQuantization": 254970,
+        "forwardAngle": 128
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 64,
+      "position": {
+        "x": 29160,
+        "y": -22059,
+        "z": 24724
+      },
+      "axis": {
+        "upQuantization": 261099,
+        "forwardAngle": 126
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 10,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 66,
+      "position": {
+        "x": 26835,
+        "y": -17804,
+        "z": 23922
+      },
+      "axis": {
+        "upQuantization": 401036,
+        "forwardAngle": 67
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 66,
+      "position": {
+        "x": 28340,
+        "y": -21916,
+        "z": 24563
+      },
+      "axis": {
+        "upQuantization": 257217,
+        "forwardAngle": 194
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 66,
+      "position": {
+        "x": 28348,
+        "y": -21639,
+        "z": 24518
+      },
+      "axis": {
+        "upQuantization": 220305,
+        "forwardAngle": 63
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 66,
+      "position": {
+        "x": 28388,
+        "y": -21410,
+        "z": 24422
+      },
+      "axis": {
+        "upQuantization": 183449,
+        "forwardAngle": 60
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 46,
+      "position": {
+        "x": 26983,
+        "y": -18270,
+        "z": 24358
+      },
+      "axis": {
+        "forwardAngle": 127
+      },
+      "propertiesCachedObjectType": 4,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 44,
+      "position": {
+        "x": 29803,
+        "y": -10378,
+        "z": 20323
+      },
+      "axis": {
+        "upQuantization": 271338,
+        "forwardAngle": 64
+      },
+      "propertiesCachedObjectType": 4,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 3,
+      "definitionIndex": 62,
+      "position": {
+        "x": 28865,
+        "y": -22632,
+        "z": 25571
+      },
+      "axis": {
+        "upQuantization": 484002,
+        "forwardAngle": 92
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 64,
+      "position": {
+        "x": 28845,
+        "y": -22597,
+        "z": 25692
+      },
+      "axis": {
+        "upQuantization": 5883,
+        "forwardAngle": 159
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    },
+    {
+      "flags": 131,
+      "definitionIndex": 60,
+      "position": {
+        "x": 26365,
+        "y": -21039,
+        "z": 24046
+      },
+      "axis": {
+        "upQuantization": 309181,
+        "forwardAngle": 169
+      },
+      "propertiesCachedObjectType": 0,
+      "propertiesFlags": 12,
+      "propertiesGameEngineFlags": 1023,
+      "propertiesSharedStorage": 0,
+      "propertiesSpawnTime": 30,
+      "propertiesTeamAffiliation": 8
+    }
+  ],
+  "objectTypes": [
+    0,
+    1,
+    20,
+    55,
+    0,
+    0,
+    94,
+    0,
+    0,
+    0,
+    269,
+    0,
+    0,
+    0
+  ],
+  "budget": [
+    {
+      "objectDefinitionIndex": "0xE6870511",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 20.0
+    },
+    {
+      "objectDefinitionIndex": "0xE94C07D6",
+      "minimumCount": 8,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 10.0
+    },
+    {
+      "objectDefinitionIndex": "0xE310019A",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 15.0
+    },
+    {
+      "objectDefinitionIndex": "0xED1F0BA9",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 20.0
+    },
+    {
+      "objectDefinitionIndex": "0xE9C5084F",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 2,
+      "pricePerItem": 25.0
+    },
+    {
+      "objectDefinitionIndex": "0xEC830B0D",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 20.0
+    },
+    {
+      "objectDefinitionIndex": "0xEB8C0A16",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 2,
+      "pricePerItem": 20.0
+    },
+    {
+      "objectDefinitionIndex": "0xEDFF0C89",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 2,
+      "pricePerItem": 25.0
+    },
+    {
+      "objectDefinitionIndex": "0xF7BC1646",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 2,
+      "pricePerItem": 20.0
+    },
+    {
+      "objectDefinitionIndex": "0xF1FD1087",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF1460FD0",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 24,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF36B11F5",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF66414EE",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF3BD1247",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF3FF1289",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF47A1304",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF51713A1",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF4AD1337",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF23210BC",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF77415FE",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF6B3153D",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF592141C",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF70C1596",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xEB5309DD",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 6.0
+    },
+    {
+      "objectDefinitionIndex": "0xF75415DE",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xEDBA0C44",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF60A1494",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF83B16C5",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 1,
+      "pricePerItem": 10.0
+    },
+    {
+      "objectDefinitionIndex": "0xF63914C3",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 6.0
+    },
+    {
+      "objectDefinitionIndex": "0xF8891713",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 6.0
+    },
+    {
+      "objectDefinitionIndex": "0xF28E1118",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF43F12C9",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xEF5A0DE4",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 32,
+      "pricePerItem": 1.0
+    },
+    {
+      "objectDefinitionIndex": "0xEF050D8F",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 32,
+      "pricePerItem": 1.0
+    },
+    {
+      "objectDefinitionIndex": "0xEF6D0DF7",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 32,
+      "pricePerItem": 1.0
+    },
+    {
+      "objectDefinitionIndex": "0xEF3C0DC6",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xEFFC0E86",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF0AB0F35",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF0FF0F89",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF03C0EC6",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF0D80F62",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF8C61750",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF8D91763",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF0670EF1",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF1370FC1",
+      "minimumCount": 1,
+      "maximumCount": 1,
+      "placedOnMap": 1,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF1260FB0",
+      "minimumCount": 1,
+      "maximumCount": 1,
+      "placedOnMap": 1,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF8F5177F",
+      "minimumCount": 1,
+      "maximumCount": 1,
+      "placedOnMap": 1,
+      "maximumAllowed": 4,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF8FC1786",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 3.0
+    },
+    {
+      "objectDefinitionIndex": "0xF92717B1",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 3.0
+    },
+    {
+      "objectDefinitionIndex": "0xF93717C1",
+      "minimumCount": 0,
+      "maximumCount": 24,
+      "placedOnMap": 24,
+      "maximumAllowed": 24,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF94D17D7",
+      "minimumCount": 0,
+      "maximumCount": 7,
+      "placedOnMap": 6,
+      "maximumAllowed": 8,
+      "pricePerItem": 6.0
+    },
+    {
+      "objectDefinitionIndex": "0xF95217DC",
+      "minimumCount": 0,
+      "maximumCount": 3,
+      "placedOnMap": 2,
+      "maximumAllowed": 16,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF95717E1",
+      "minimumCount": 0,
+      "maximumCount": 1,
+      "placedOnMap": 1,
+      "maximumAllowed": 8,
+      "pricePerItem": 6.0
+    },
+    {
+      "objectDefinitionIndex": "0xF95C17E6",
+      "minimumCount": 0,
+      "maximumCount": 16,
+      "placedOnMap": 16,
+      "maximumAllowed": 16,
+      "pricePerItem": 2.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9781802",
+      "minimumCount": 0,
+      "maximumCount": 16,
+      "placedOnMap": 16,
+      "maximumAllowed": 16,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9871811",
+      "minimumCount": 0,
+      "maximumCount": 3,
+      "placedOnMap": 2,
+      "maximumAllowed": 16,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF99B1825",
+      "minimumCount": 0,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9A0182A",
+      "minimumCount": 0,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9A5182F",
+      "minimumCount": 8,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 3.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9AA1834",
+      "minimumCount": 8,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9BF1849",
+      "minimumCount": 0,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9CC1856",
+      "minimumCount": 0,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9D3185D",
+      "minimumCount": 0,
+      "maximumCount": 4,
+      "placedOnMap": 4,
+      "maximumAllowed": 8,
+      "pricePerItem": 3.0
+    },
+    {
+      "objectDefinitionIndex": "0xF9E71871",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 20,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA071891",
+      "minimumCount": 3,
+      "maximumCount": 4,
+      "placedOnMap": 4,
+      "maximumAllowed": 4,
+      "pricePerItem": 5.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA0C1896",
+      "minimumCount": 0,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA1F18A9",
+      "minimumCount": 0,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA2418AE",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA3618C0",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 4,
+      "pricePerItem": 4.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA4E18D8",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 1,
+      "pricePerItem": 15.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA6218EC",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 1,
+      "pricePerItem": 15.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA6518EF",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 1,
+      "pricePerItem": 15.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA6918F3",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 1,
+      "pricePerItem": 15.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA6C18F6",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 1,
+      "pricePerItem": 15.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA6F18F9",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 1,
+      "pricePerItem": 15.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA7218FC",
+      "minimumCount": 0,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 8,
+      "pricePerItem": 5.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA861910",
+      "minimumCount": 0,
+      "maximumCount": 3,
+      "placedOnMap": 2,
+      "maximumAllowed": 8,
+      "pricePerItem": 5.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA8D1917",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 5.0
+    },
+    {
+      "objectDefinitionIndex": "0xE26300ED",
+      "minimumCount": 0,
+      "maximumCount": 5,
+      "placedOnMap": 5,
+      "maximumAllowed": 100,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE29A0124",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 20,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE282010C",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 20,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE2980122",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 20,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE29D0127",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 20,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE281010B",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 20,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE2990123",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 20,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE29F0129",
+      "minimumCount": 0,
+      "maximumCount": 8,
+      "placedOnMap": 8,
+      "maximumAllowed": 20,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE29B0125",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE283010D",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE2970121",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE2960120",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFB0F1999",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFB10199A",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE2A0012A",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE29E0128",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFB11199B",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xE29C0126",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 20,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFB12199C",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFA8E1918",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFAC1194B",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFACA1954",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFAF1197B",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 16,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFAF2197C",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFAFB1985",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFAFC1986",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 8,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFB0C1996",
+      "minimumCount": 0,
+      "maximumCount": 0,
+      "placedOnMap": 0,
+      "maximumAllowed": 12,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0xFB0E1998",
+      "minimumCount": 0,
+      "maximumCount": 11,
+      "placedOnMap": 1,
+      "maximumAllowed": 12,
+      "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0x00080010",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 5,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C001D",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C001E",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C001F",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0020",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0021",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0022",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0023",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0024",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0025",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0026",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    }
+  ]
+}
