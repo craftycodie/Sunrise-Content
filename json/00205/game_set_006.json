@@ -1,47 +1,7 @@
 {
   "gameEntries": [
     {
-      "gameEntryWeight": 7,
-      "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "5_min_slayer",
-      "mapVariantFileName": "default_cold_storage"
-    },
-    {
-      "gameEntryWeight": 7,
-      "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "5_min_slayer",
-      "mapVariantFileName": "default_assembly"
-    },
-    {
-      "gameEntryWeight": 7,
-      "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "5_min_slayer",
-      "mapVariantFileName": "default_citadel"
-    },
-    {
-      "gameEntryWeight": 7,
-      "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "5_min_slayer",
-      "mapVariantFileName": "default_heretic"
-    },
-    {
-      "gameEntryWeight": 6,
-      "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "5_min_slayer_br",
-      "mapVariantFileName": "default_cold_storage"
-    },
-    {
-      "gameEntryWeight": 6,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
@@ -49,15 +9,63 @@
       "mapVariantFileName": "default_assembly"
     },
     {
-      "gameEntryWeight": 6,
-      "minimumPlayerCount": 5,
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
       "gameVariantFileName": "5_min_slayer_br",
       "mapVariantFileName": "default_citadel"
     },
     {
-      "gameEntryWeight": 6,
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_cold_storage"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
@@ -65,164 +73,1108 @@
       "mapVariantFileName": "default_heretic"
     },
     {
-      "gameEntryWeight": 3,
-      "minimumPlayerCount": 5,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "ffa_rockets",
-      "mapVariantFileName": "default_cold_storage"
-    },
-    {
-      "gameEntryWeight": 3,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "ffa_rockets",
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_isolation"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_longshore"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_sandtrap"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer_br",
+      "mapVariantFileName": "default_valhalla"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
       "mapVariantFileName": "default_assembly"
     },
     {
-      "gameEntryWeight": 3,
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "ffa_rockets",
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
       "mapVariantFileName": "default_citadel"
     },
     {
-      "gameEntryWeight": 3,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "ffa_rockets",
-      "mapVariantFileName": "default_heretic"
-    },
-    {
-      "gameEntryWeight": 4,
-      "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "rumble_swords",
+      "gameVariantFileName": "5_min_slayer",
       "mapVariantFileName": "default_cold_storage"
     },
     {
-      "gameEntryWeight": 4,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_swords",
-      "mapVariantFileName": "default_assembly"
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_construct"
     },
     {
-      "gameEntryWeight": 4,
-      "minimumPlayerCount": 1,
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_swords",
-      "mapVariantFileName": "default_citadel"
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_ghost_town"
     },
     {
-      "gameEntryWeight": 4,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_swords",
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
       "mapVariantFileName": "default_heretic"
     },
     {
-      "gameEntryWeight": 4,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "fiesta_slayer",
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_isolation"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_longshore"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_sandtrap"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_slayer",
+      "mapVariantFileName": "default_valhalla"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_citadel"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
       "mapVariantFileName": "default_cold_storage"
     },
     {
-      "gameEntryWeight": 4,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "fiesta_slayer",
-      "mapVariantFileName": "default_assembly"
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_construct"
     },
     {
-      "gameEntryWeight": 4,
-      "minimumPlayerCount": 1,
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "fiesta_slayer",
-      "mapVariantFileName": "default_citadel"
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_ghost_town"
     },
     {
-      "gameEntryWeight": 4,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "fiesta_slayer",
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
       "mapVariantFileName": "default_heretic"
     },
     {
-      "gameEntryWeight": 4,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_oddball",
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_isolation"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_longshore"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_sandtrap"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_crazy_king",
+      "mapVariantFileName": "default_valhalla"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_citadel"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
       "mapVariantFileName": "default_cold_storage"
     },
     {
-      "gameEntryWeight": 4,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_oddball",
-      "mapVariantFileName": "default_assembly"
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_construct"
     },
     {
-      "gameEntryWeight": 4,
-      "minimumPlayerCount": 1,
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_oddball",
-      "mapVariantFileName": "default_citadel"
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_ghost_town"
     },
     {
-      "gameEntryWeight": 4,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_oddball",
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
       "mapVariantFileName": "default_heretic"
     },
     {
-      "gameEntryWeight": 5,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_crazy_king",
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_isolation"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_longshore"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_sandtrap"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_oddball",
+      "mapVariantFileName": "default_valhalla"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_citadel"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
       "mapVariantFileName": "default_cold_storage"
     },
     {
-      "gameEntryWeight": 5,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_crazy_king",
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_heretic"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_isolation"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_longshore"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_sandtrap"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_rockets",
+      "mapVariantFileName": "default_valhalla"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
       "mapVariantFileName": "default_assembly"
     },
     {
-      "gameEntryWeight": 5,
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_crazy_king",
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
       "mapVariantFileName": "default_citadel"
     },
     {
-      "gameEntryWeight": 5,
+      "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
       "skipAfterVeto": false,
       "optional": false,
-      "gameVariantFileName": "rumble_crazy_king",
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_cold_storage"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
       "mapVariantFileName": "default_heretic"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_isolation"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_longshore"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_sandtrap"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "default_valhalla"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_assembly"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_avalanche"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_blackout"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_citadel"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_cold_storage"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_construct"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_ghost_town"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_guardian"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_heretic"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_high_ground"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_isolation"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_last_resort"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_longshore"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_orbital"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_rats_nest"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_sandbox"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_sandtrap"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_snowbound"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 4,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_standoff"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_the_pit"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 8,
+      "skipAfterVeto": false,
+      "optional": false,
+      "gameVariantFileName": "5_min_swords",
+      "mapVariantFileName": "default_valhalla"
     }
   ]
 }
