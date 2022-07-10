@@ -58,7 +58,7 @@
       "author": "",
       "fileType": "GAME_VARIANT_TERRITORIES",
       "authorIsXuidOnline": false,
-      "authorXuid": 0,
+      "authorXuid": "0x0000000000000000",
       "sizeInBytes": 956,
       "date": 1286834126,
       "lengthSeconds": 0,
@@ -150,7 +150,7 @@
         "motionTrackerRange": "METERS_25"
       },
       "weaponSet": "MAP_DEFAULT",
-      "vehicleSet": "MAP_DEFAULT",
+      "vehicleSet": 0,
       "redPowerupTraits": {
         "damageResistance": "INVULNERABLE",
         "shieldRechargeRate": "PERCENT_200",

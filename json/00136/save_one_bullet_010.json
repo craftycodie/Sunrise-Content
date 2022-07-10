@@ -110,7 +110,7 @@
       "author": "",
       "fileType": "GAME_VARIANT_INFECTION",
       "authorIsXuidOnline": false,
-      "authorXuid": 0,
+      "authorXuid": "0x0000000000000000",
       "sizeInBytes": 956,
       "date": 1254508791,
       "lengthSeconds": 0,
@@ -202,7 +202,7 @@
         "motionTrackerRange": "UNCHANGED"
       },
       "weaponSet": "NO_WEAPONS",
-      "vehicleSet": "MAP_DEFAULT",
+      "vehicleSet": 0,
       "redPowerupTraits": {
         "damageResistance": "INVULNERABLE",
         "shieldRechargeRate": "PERCENT_100",
