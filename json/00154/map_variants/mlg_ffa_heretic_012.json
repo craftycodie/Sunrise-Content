@@ -55,7 +55,6 @@
         "z": 16459
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 262691,
         "forwardAngle": 64
       },
@@ -83,7 +82,6 @@
         "z": 16485
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 264680,
         "forwardAngle": 64
       },
@@ -115,7 +113,6 @@
         "z": 23592
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 267241,
         "forwardAngle": 191
       },
@@ -151,7 +148,6 @@
         "z": 17033
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 140708,
         "forwardAngle": 36
       },
@@ -171,7 +167,6 @@
         "z": 17033
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 144113,
         "forwardAngle": 17
       },
@@ -379,7 +374,6 @@
         "z": 26360
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 320938,
         "forwardAngle": 203
       },
@@ -399,8 +393,6 @@
         "z": 20029
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 87
       },
       "propertiesCachedObjectType": 12,
@@ -478,6 +470,10 @@
       "flags": 9,
       "definitionIndex": 61
     },
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 76
@@ -486,6 +482,7 @@
       "flags": 9,
       "definitionIndex": 76
     },
+    {},
     {
       "flags": 11,
       "definitionIndex": 61,
@@ -495,8 +492,6 @@
         "z": 22027
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 174
       },
       "propertiesCachedObjectType": 12,
@@ -515,7 +510,6 @@
         "z": 22023
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263162,
         "forwardAngle": 141
       },
@@ -570,6 +564,8 @@
       "flags": 9,
       "definitionIndex": 90
     },
+    {},
+    {},
     {
       "flags": 11,
       "definitionIndex": 66,
@@ -579,8 +575,6 @@
         "z": 20021
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 45
       },
       "propertiesCachedObjectType": 12,
@@ -599,7 +593,6 @@
         "z": 26280
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 320082,
         "forwardAngle": 178
       },
@@ -619,8 +612,6 @@
         "z": 15663
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 105
       },
       "propertiesCachedObjectType": 12,
@@ -639,8 +630,6 @@
         "z": 15662
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 22
       },
       "propertiesCachedObjectType": 12,
@@ -666,6 +655,19 @@
       "flags": 9,
       "definitionIndex": 61
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 137,
       "definitionIndex": 45
@@ -679,8 +681,6 @@
         "z": 27783
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 190
       },
       "propertiesCachedObjectType": 17,
@@ -689,7 +689,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 1,
-      "propertiesShapeType": 2,
+      "propertiesShapeType": "CYLINDER",
       "propertiesShapeRadiusWidth": 546,
       "propertiesShapeDepth": 546,
       "propertiesShapeTop": 0
@@ -703,7 +703,6 @@
         "z": 27091
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263154,
         "forwardAngle": 192
       },
@@ -723,8 +722,6 @@
         "z": 27776
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 63
       },
       "propertiesCachedObjectType": 17,
@@ -733,7 +730,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 0,
-      "propertiesShapeType": 2,
+      "propertiesShapeType": "CYLINDER",
       "propertiesShapeRadiusWidth": 546,
       "propertiesShapeDepth": 546,
       "propertiesShapeTop": 0
@@ -747,8 +744,6 @@
         "z": 27090
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 15,
@@ -783,7 +778,6 @@
         "z": 13917
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 275452,
         "forwardAngle": 64
       },
@@ -1014,6 +1008,10 @@
       "flags": 41,
       "definitionIndex": -1
     },
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 137,
       "definitionIndex": 98
@@ -1022,6 +1020,7 @@
       "flags": 137,
       "definitionIndex": 98
     },
+    {},
     {
       "flags": 131,
       "definitionIndex": 6,
@@ -1031,7 +1030,6 @@
         "z": 27104
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 270595,
         "forwardAngle": 65
       },
@@ -1051,7 +1049,6 @@
         "z": 27107
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 258716,
         "forwardAngle": 64
       },
@@ -1071,7 +1068,6 @@
         "z": 27109
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 257396,
         "forwardAngle": 63
       },
@@ -1091,7 +1087,6 @@
         "z": 27124
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 250112,
         "forwardAngle": 64
       },
@@ -1111,7 +1106,6 @@
         "z": 23700
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 129321,
         "forwardAngle": 17
       },
@@ -1131,7 +1125,6 @@
         "z": 23702
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 134608,
         "forwardAngle": 189
       },
@@ -1151,7 +1144,6 @@
         "z": 18622
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263312,
         "forwardAngle": 128
       },
@@ -1171,7 +1163,6 @@
         "z": -31259
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259068,
         "forwardAngle": 64
       },
@@ -1191,7 +1182,6 @@
         "z": 16925
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 257028,
         "forwardAngle": 64
       },
@@ -1211,7 +1201,6 @@
         "z": 18620
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261072,
         "forwardAngle": 127
       },
@@ -1231,8 +1220,6 @@
         "z": 20457
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 251
       },
       "propertiesCachedObjectType": 0,
@@ -1251,7 +1238,6 @@
         "z": 18572
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 260963,
         "forwardAngle": 126
       },
@@ -1271,7 +1257,6 @@
         "z": 20458
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261122,
         "forwardAngle": 132
       },
@@ -1291,7 +1276,6 @@
         "z": 18738
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259107,
         "forwardAngle": 1
       },
@@ -2031,6 +2015,102 @@
       "placedOnMap": 0,
       "maximumAllowed": 12,
       "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0x000A0012",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 1,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x00080012",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 5,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C000D",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C000E",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C000F",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0010",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0011",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0012",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0013",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0014",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 4,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0015",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0016",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
     }
   ]
 }

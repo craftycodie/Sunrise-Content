@@ -155,7 +155,6 @@
         "z": 25161
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259068,
         "forwardAngle": 190
       },
@@ -164,8 +163,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 30,
-      "propertiesTeamAffiliation": 0,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 0
     },
     {
       "flags": 137,
@@ -387,6 +385,10 @@
       "flags": 137,
       "definitionIndex": 25
     },
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 62
@@ -727,6 +729,9 @@
       "flags": 9,
       "definitionIndex": 62
     },
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 69
@@ -763,6 +768,8 @@
       "flags": 9,
       "definitionIndex": 77
     },
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 63
@@ -971,6 +978,19 @@
       "flags": 9,
       "definitionIndex": 80
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 77
@@ -1039,10 +1059,16 @@
       "flags": 137,
       "definitionIndex": 38
     },
+    {},
     {
       "flags": 137,
       "definitionIndex": 38
     },
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 137,
       "definitionIndex": 38
@@ -1239,6 +1265,14 @@
       "flags": 9,
       "definitionIndex": 86
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 137,
       "definitionIndex": 46
@@ -1247,6 +1281,8 @@
       "flags": 137,
       "definitionIndex": 43
     },
+    {},
+    {},
     {
       "flags": 137,
       "definitionIndex": 46
@@ -1379,6 +1415,37 @@
       "flags": 9,
       "definitionIndex": 88
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 137,
       "definitionIndex": 45
@@ -1387,6 +1454,7 @@
       "flags": 137,
       "definitionIndex": 45
     },
+    {},
     {
       "flags": 137,
       "definitionIndex": 91
@@ -1412,8 +1480,6 @@
         "z": -16042
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,
@@ -1421,8 +1487,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
-      "propertiesTeamAffiliation": 0,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 0
     },
     {
       "flags": 137,
@@ -1457,8 +1522,6 @@
         "z": -17150
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,
@@ -1466,8 +1529,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
-      "propertiesTeamAffiliation": 0,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 0
     },
     {
       "flags": 137,
@@ -1534,7 +1596,6 @@
         "z": 29159
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261241,
         "forwardAngle": 63
       },
@@ -1543,8 +1604,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 30,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1555,8 +1615,6 @@
         "z": 25073
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,
@@ -1564,8 +1622,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 30,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     }
   ],
   "objectTypes": [

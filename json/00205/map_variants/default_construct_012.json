@@ -99,7 +99,6 @@
         "z": -6448
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 260921,
         "forwardAngle": 63
       },
@@ -119,7 +118,6 @@
         "z": -6448
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261209,
         "forwardAngle": 191
       },
@@ -622,6 +620,7 @@
       "flags": 9,
       "definitionIndex": 79
     },
+    {},
     {
       "flags": 9,
       "definitionIndex": 64
@@ -782,6 +781,9 @@
       "flags": 9,
       "definitionIndex": 79
     },
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 89
@@ -995,8 +997,6 @@
         "z": -5140
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 109
       },
       "propertiesCachedObjectType": 0,
@@ -1015,7 +1015,6 @@
         "z": -5369
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263162,
         "forwardAngle": 44
       },
@@ -1075,7 +1074,6 @@
         "z": -6531
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 257024,
         "forwardAngle": 128
       },
@@ -1095,7 +1093,6 @@
         "z": -6527
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 267267,
         "forwardAngle": 126
       },
@@ -1115,7 +1112,6 @@
         "z": -7244
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 233929,
         "forwardAngle": 82
       },
@@ -1135,7 +1131,6 @@
         "z": -7271
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 284168,
         "forwardAngle": 49
       },
@@ -1155,7 +1150,6 @@
         "z": -7535
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 383810,
         "forwardAngle": 47
       },
@@ -1175,7 +1169,6 @@
         "z": -7539
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 306306,
         "forwardAngle": 82
       },
@@ -1195,8 +1188,6 @@
         "z": -6472
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,
@@ -1215,8 +1206,6 @@
         "z": -6469
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,

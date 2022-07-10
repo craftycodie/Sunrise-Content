@@ -283,7 +283,6 @@
         "z": 32172
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 260331,
         "forwardAngle": 96
       },
@@ -292,8 +291,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 60,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 41,
@@ -571,6 +569,8 @@
       "flags": 9,
       "definitionIndex": 86
     },
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 73
@@ -691,6 +691,16 @@
       "flags": 9,
       "definitionIndex": 89
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 75
@@ -787,6 +797,14 @@
       "flags": 9,
       "definitionIndex": 72
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 87
@@ -867,6 +885,8 @@
       "flags": 9,
       "definitionIndex": 79
     },
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 100
@@ -887,6 +907,8 @@
       "flags": 9,
       "definitionIndex": 100
     },
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 72
@@ -935,6 +957,10 @@
       "flags": 9,
       "definitionIndex": 72
     },
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 92
@@ -1500,8 +1526,6 @@
         "z": 32332
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,
@@ -1509,8 +1533,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 139,
@@ -1521,8 +1544,6 @@
         "z": 32445
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,
@@ -1530,8 +1551,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 137,
@@ -1546,8 +1566,6 @@
         "z": 32646
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,
@@ -1555,8 +1573,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 139,
@@ -1567,7 +1584,6 @@
         "z": -32750
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 254985,
         "forwardAngle": 63
       },
@@ -1576,8 +1592,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 137,
@@ -1596,7 +1611,6 @@
         "z": 32151
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 275441,
         "forwardAngle": 190
       },
@@ -1605,8 +1619,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1617,7 +1630,6 @@
         "z": -32366
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 139956,
         "forwardAngle": 81
       },
@@ -1626,8 +1638,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1638,7 +1649,6 @@
         "z": -32366
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 140024,
         "forwardAngle": 139
       },
@@ -1647,8 +1657,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1659,7 +1668,6 @@
         "z": -32366
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 128617,
         "forwardAngle": 95
       },
@@ -1668,8 +1676,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1680,7 +1687,6 @@
         "z": -32365
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 150552,
         "forwardAngle": 134
       },
@@ -1689,8 +1695,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1701,8 +1706,6 @@
         "z": 32147
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 64
       },
       "propertiesCachedObjectType": 0,
@@ -1710,8 +1713,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 30,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1722,7 +1724,6 @@
         "z": -31357
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265000,
         "forwardAngle": 127
       },
@@ -1731,8 +1732,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1743,7 +1743,6 @@
         "z": -31357
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 277496,
         "forwardAngle": 127
       },
@@ -1752,8 +1751,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1764,7 +1762,6 @@
         "z": -31364
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263128,
         "forwardAngle": 127
       },
@@ -1773,8 +1770,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1785,7 +1781,6 @@
         "z": -31365
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 269304,
         "forwardAngle": 127
       },
@@ -1794,8 +1789,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1806,7 +1800,6 @@
         "z": -31699
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263144,
         "forwardAngle": 127
       },
@@ -1815,8 +1808,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1827,8 +1819,6 @@
         "z": -31689
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 2,
@@ -1836,8 +1826,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1848,7 +1837,6 @@
         "z": -31702
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 146187,
         "forwardAngle": 81
       },
@@ -1857,8 +1845,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1869,7 +1856,6 @@
         "z": -31699
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265208,
         "forwardAngle": 127
       },
@@ -1878,8 +1864,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1890,7 +1875,6 @@
         "z": -31364
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 273400,
         "forwardAngle": 127
       },
@@ -1899,8 +1883,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1911,7 +1894,6 @@
         "z": -31363
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 326672,
         "forwardAngle": 126
       },
@@ -1920,8 +1902,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1932,7 +1913,6 @@
         "z": 32165
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 148657,
         "forwardAngle": 70
       },
@@ -1941,8 +1921,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1953,7 +1932,6 @@
         "z": 32165
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 148292,
         "forwardAngle": 38
       },
@@ -1962,8 +1940,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 45,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1974,7 +1951,6 @@
         "z": -32379
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261129,
         "forwardAngle": 63
       },
@@ -1983,8 +1959,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 30,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -1995,7 +1970,6 @@
         "z": -32379
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261148,
         "forwardAngle": 190
       },
@@ -2004,8 +1978,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 30,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -2016,7 +1989,6 @@
         "z": -31373
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261132,
         "forwardAngle": 64
       },
@@ -2025,8 +1997,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 30,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 131,
@@ -2037,7 +2008,6 @@
         "z": -31380
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261129,
         "forwardAngle": 63
       },
@@ -2046,8 +2016,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 30,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     }
   ],
   "objectTypes": [

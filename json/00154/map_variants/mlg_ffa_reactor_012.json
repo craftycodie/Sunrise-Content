@@ -251,8 +251,6 @@
         "z": 4725
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 151
       },
       "propertiesCachedObjectType": 12,
@@ -311,8 +309,6 @@
         "z": 5282
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 191
       },
       "propertiesCachedObjectType": 13,
@@ -321,7 +317,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 1,
-      "propertiesShapeType": 2,
+      "propertiesShapeType": "CYLINDER",
       "propertiesShapeRadiusWidth": 8738,
       "propertiesShapeDepth": 5461,
       "propertiesShapeTop": 5461
@@ -335,8 +331,6 @@
         "z": 5284
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 191
       },
       "propertiesCachedObjectType": 13,
@@ -345,7 +339,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 0,
-      "propertiesShapeType": 2,
+      "propertiesShapeType": "CYLINDER",
       "propertiesShapeRadiusWidth": 10923,
       "propertiesShapeDepth": 5461,
       "propertiesShapeTop": 5461
@@ -363,8 +357,6 @@
         "z": 4726
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 91
       },
       "propertiesCachedObjectType": 12,
@@ -399,8 +391,6 @@
         "z": 4773
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 32
       },
       "propertiesCachedObjectType": 12,
@@ -419,8 +409,6 @@
         "z": 4773
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 159
       },
       "propertiesCachedObjectType": 12,
@@ -511,8 +499,6 @@
         "z": 4773
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 162
       },
       "propertiesCachedObjectType": 12,
@@ -531,8 +517,6 @@
         "z": 4773
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 35
       },
       "propertiesCachedObjectType": 12,
@@ -634,6 +618,8 @@
       "flags": 9,
       "definitionIndex": 64
     },
+    {},
+    {},
     {
       "flags": 41,
       "definitionIndex": -1
@@ -715,8 +701,6 @@
         "z": 4725
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 161
       },
       "propertiesCachedObjectType": 12,
@@ -758,6 +742,10 @@
       "flags": 41,
       "definitionIndex": -1
     },
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 67
@@ -835,7 +823,6 @@
         "z": 4792
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263162,
         "forwardAngle": 188
       },
@@ -855,8 +842,6 @@
         "z": 4782
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 254
       },
       "propertiesCachedObjectType": 17,
@@ -865,7 +850,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 1,
-      "propertiesShapeType": 2,
+      "propertiesShapeType": "CYLINDER",
       "propertiesShapeRadiusWidth": 546,
       "propertiesShapeDepth": 546,
       "propertiesShapeTop": 0
@@ -879,8 +864,6 @@
         "z": 4792
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 190
       },
       "propertiesCachedObjectType": 15,
@@ -899,8 +882,6 @@
         "z": 4782
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 126
       },
       "propertiesCachedObjectType": 17,
@@ -909,11 +890,12 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 0,
-      "propertiesShapeType": 2,
+      "propertiesShapeType": "CYLINDER",
       "propertiesShapeRadiusWidth": 546,
       "propertiesShapeDepth": 546,
       "propertiesShapeTop": 0
     },
+    {},
     {
       "flags": 9,
       "definitionIndex": 90
@@ -1038,6 +1020,8 @@
       "flags": 9,
       "definitionIndex": 91
     },
+    {},
+    {},
     {
       "flags": 41,
       "definitionIndex": -1
@@ -1147,7 +1131,6 @@
         "z": 5423
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263076,
         "forwardAngle": 190
       },
@@ -1167,8 +1150,6 @@
         "z": 4772
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 97
       },
       "propertiesCachedObjectType": 12,
@@ -1187,8 +1168,6 @@
         "z": 4780
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 0,
@@ -1207,7 +1186,6 @@
         "z": 5717
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259188,
         "forwardAngle": 190
       },
@@ -1227,7 +1205,6 @@
         "z": 5203
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265213,
         "forwardAngle": 196
       },
@@ -1247,7 +1224,6 @@
         "z": 5424
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265300,
         "forwardAngle": 190
       },
@@ -1267,7 +1243,6 @@
         "z": 5425
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 257108,
         "forwardAngle": 63
       },
@@ -1287,7 +1262,6 @@
         "z": 5227
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 240653,
         "forwardAngle": 181
       },
@@ -1307,7 +1281,6 @@
         "z": 5714
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259172,
         "forwardAngle": 63
       },
@@ -1327,7 +1300,6 @@
         "z": 5225
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261117,
         "forwardAngle": 245
       },
@@ -1347,8 +1319,6 @@
         "z": 4397
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 14,
@@ -1367,7 +1337,6 @@
         "z": 4778
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 277498,
         "forwardAngle": 191
       },
@@ -1387,7 +1356,6 @@
         "z": 5209
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 287773,
         "forwardAngle": 76
       },
@@ -1407,7 +1375,6 @@
         "z": 5422
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 267156,
         "forwardAngle": 64
       },
@@ -1427,7 +1394,6 @@
         "z": 5789
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 343116,
         "forwardAngle": 253
       },
@@ -1447,7 +1413,6 @@
         "z": 5708
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 267156,
         "forwardAngle": 191
       },
@@ -1467,7 +1432,6 @@
         "z": 5707
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 267156,
         "forwardAngle": 63
       },
@@ -1487,7 +1451,6 @@
         "z": 5802
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 363609,
         "forwardAngle": 253
       },
@@ -1507,8 +1470,6 @@
         "z": 5366
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 33
       },
       "propertiesCachedObjectType": 12,
@@ -1527,7 +1488,6 @@
         "z": 5418
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 260985,
         "forwardAngle": 64
       },
@@ -1547,7 +1507,6 @@
         "z": 5420
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263033,
         "forwardAngle": 190
       },
@@ -1567,7 +1526,6 @@
         "z": 5715
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 260985,
         "forwardAngle": 64
       },
@@ -1587,7 +1545,6 @@
         "z": 5715
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 260985,
         "forwardAngle": 190
       },
@@ -1607,7 +1564,6 @@
         "z": 5807
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 386105,
         "forwardAngle": 126
       },
@@ -1627,7 +1583,6 @@
         "z": 5415
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261193,
         "forwardAngle": 64
       },
@@ -1647,7 +1602,6 @@
         "z": 5413
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261193,
         "forwardAngle": 190
       },
@@ -1667,7 +1621,6 @@
         "z": 5708
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261193,
         "forwardAngle": 64
       },
@@ -1687,7 +1640,6 @@
         "z": 5705
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263233,
         "forwardAngle": 190
       },
@@ -1707,7 +1659,6 @@
         "z": 5819
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 420769,
         "forwardAngle": 130
       },
@@ -1727,7 +1678,6 @@
         "z": 5812
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 391993,
         "forwardAngle": 4
       },
@@ -1747,7 +1697,6 @@
         "z": 5804
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 383860,
         "forwardAngle": 125
       },
@@ -1767,7 +1716,6 @@
         "z": 5809
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 396220,
         "forwardAngle": 253
       },
@@ -1787,7 +1735,6 @@
         "z": 5809
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 367788,
         "forwardAngle": 129
       },
@@ -1807,8 +1754,6 @@
         "z": 4773
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 89
       },
       "propertiesCachedObjectType": 12,
@@ -1827,8 +1772,6 @@
         "z": 4773
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 216
       },
       "propertiesCachedObjectType": 12,
@@ -1847,7 +1790,6 @@
         "z": 4772
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261106,
         "forwardAngle": 220
       },
@@ -1867,7 +1809,6 @@
         "z": 4673
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 93196,
         "forwardAngle": 127
       },
@@ -1887,8 +1828,6 @@
         "z": 5086
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 128
       },
       "propertiesCachedObjectType": 0,
@@ -1907,8 +1846,6 @@
         "z": 5085
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 128
       },
       "propertiesCachedObjectType": 0,
@@ -1927,7 +1864,6 @@
         "z": 5112
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 257032,
         "forwardAngle": 127
       },
@@ -1947,7 +1883,6 @@
         "z": 5112
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265216,
         "forwardAngle": 127
       },
@@ -1967,7 +1902,6 @@
         "z": 4659
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 271592,
         "forwardAngle": 126
       },
@@ -1987,7 +1921,6 @@
         "z": 4659
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265176,
         "forwardAngle": 127
       },
@@ -2007,8 +1940,6 @@
         "z": 5366
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 219
       },
       "propertiesCachedObjectType": 12,
@@ -2027,8 +1958,6 @@
         "z": 5366
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 158
       },
       "propertiesCachedObjectType": 12,
@@ -2047,7 +1976,6 @@
         "z": 4734
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 148628,
         "forwardAngle": 130
       },
@@ -2067,7 +1995,6 @@
         "z": 4733
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 146084,
         "forwardAngle": 143
       },
@@ -2087,7 +2014,6 @@
         "z": 6325
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261116,
         "forwardAngle": 190
       },
@@ -2107,7 +2033,6 @@
         "z": 4734
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 148228,
         "forwardAngle": 130
       },
@@ -2127,7 +2052,6 @@
         "z": 4734
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 152412,
         "forwardAngle": 136
       },
@@ -2147,8 +2071,6 @@
         "z": 4725
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 164
       },
       "propertiesCachedObjectType": 12,
@@ -2167,7 +2089,6 @@
         "z": 6060
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261113,
         "forwardAngle": 190
       },
@@ -2187,7 +2108,6 @@
         "z": 5366
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263170,
         "forwardAngle": 90
       },
@@ -2207,7 +2127,6 @@
         "z": 6058
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261116,
         "forwardAngle": 191
       },
@@ -2227,7 +2146,6 @@
         "z": 6330
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263161,
         "forwardAngle": 191
       },
@@ -2247,7 +2165,6 @@
         "z": 4725
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263162,
         "forwardAngle": 153
       },
@@ -2267,8 +2184,6 @@
         "z": 4726
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 31
       },
       "propertiesCachedObjectType": 12,
@@ -3031,6 +2946,102 @@
       "placedOnMap": 0,
       "maximumAllowed": 12,
       "pricePerItem": 0.0
+    },
+    {
+      "objectDefinitionIndex": "0x000A0012",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 1,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x0008000E",
+      "minimumCount": 0,
+      "maximumCount": 6,
+      "placedOnMap": 6,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0012",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0013",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0014",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0015",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0016",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0017",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0018",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C0019",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C001A",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
+    },
+    {
+      "objectDefinitionIndex": "0x000C001B",
+      "minimumCount": 0,
+      "maximumCount": 255,
+      "placedOnMap": 2,
+      "maximumAllowed": 255,
+      "pricePerItem": -1.0
     }
   ]
 }

@@ -423,8 +423,6 @@
         "z": -23096
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 190
       },
       "propertiesCachedObjectType": 12,
@@ -443,8 +441,6 @@
         "z": -23091
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 194
       },
       "propertiesCachedObjectType": 12,
@@ -510,6 +506,42 @@
       "flags": 9,
       "definitionIndex": 72
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 74
@@ -551,7 +583,6 @@
         "z": -25393
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259106,
         "forwardAngle": 79
       },
@@ -575,8 +606,6 @@
         "z": -23095
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 187
       },
       "propertiesCachedObjectType": 12,
@@ -595,8 +624,6 @@
         "z": -23094
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 191
       },
       "propertiesCachedObjectType": 12,
@@ -703,8 +730,6 @@
         "z": -23091
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 224
       },
       "propertiesCachedObjectType": 12,
@@ -775,8 +800,6 @@
         "z": -20347
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 46
       },
       "propertiesCachedObjectType": 12,
@@ -815,7 +838,6 @@
         "z": -20346
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261122,
         "forwardAngle": 61
       },
@@ -854,6 +876,10 @@
       "flags": 9,
       "definitionIndex": 69
     },
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 91
@@ -923,8 +949,6 @@
         "z": -25611
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 20,
@@ -933,7 +957,7 @@
       "propertiesSharedStorage": 4,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 2,
+      "propertiesShapeType": "CYLINDER",
       "propertiesShapeRadiusWidth": 2185,
       "propertiesShapeDepth": 2731,
       "propertiesShapeTop": 546
@@ -1063,7 +1087,6 @@
         "z": -22954
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259066,
         "forwardAngle": 52
       },
@@ -1271,7 +1294,6 @@
         "z": -27335
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261116,
         "forwardAngle": 127
       },
@@ -1303,7 +1325,6 @@
         "z": -15157
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 293125,
         "forwardAngle": 164
       },
@@ -1363,7 +1384,6 @@
         "z": -20731
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261116,
         "forwardAngle": 127
       },
@@ -1383,7 +1403,6 @@
         "z": -17442
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259100,
         "forwardAngle": 196
       },
@@ -1427,7 +1446,6 @@
         "z": -16121
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265228,
         "forwardAngle": 54
       },
@@ -1447,7 +1465,6 @@
         "z": -14819
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 250973,
         "forwardAngle": 148
       },
@@ -1467,7 +1484,6 @@
         "z": -13234
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 254948,
         "forwardAngle": 76
       },
@@ -1487,7 +1503,6 @@
         "z": -15941
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 271370,
         "forwardAngle": 73
       },
@@ -1507,7 +1522,6 @@
         "z": -10216
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 293882,
         "forwardAngle": 83
       },
@@ -1527,7 +1541,6 @@
         "z": -25370
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259074,
         "forwardAngle": 157
       },
@@ -1537,7 +1550,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 4369,
       "propertiesShapeDepth": 29491,
       "propertiesShapeTop": 3277,
@@ -1552,7 +1565,6 @@
         "z": -23056
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 257026,
         "forwardAngle": 37
       },
@@ -1562,7 +1574,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 4915,
       "propertiesShapeDepth": 18568,
       "propertiesShapeTop": 2185,
@@ -1577,7 +1589,6 @@
         "z": -22334
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259066,
         "forwardAngle": 65
       },
@@ -1587,7 +1598,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 14199,
       "propertiesShapeDepth": 14199,
       "propertiesShapeTop": 3277,
@@ -1602,7 +1613,6 @@
         "z": -19157
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261098,
         "forwardAngle": 229
       },
@@ -1612,7 +1622,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 15292,
       "propertiesShapeDepth": 8738,
       "propertiesShapeTop": 1092,
@@ -1627,7 +1637,6 @@
         "z": -23440
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265202,
         "forwardAngle": 59
       },
@@ -1637,7 +1646,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 10923,
       "propertiesShapeDepth": 10376,
       "propertiesShapeTop": 1092,
@@ -1652,7 +1661,6 @@
         "z": -24790
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265202,
         "forwardAngle": 106
       },
@@ -1662,7 +1670,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 12561,
       "propertiesShapeDepth": 17476,
       "propertiesShapeTop": 3277,
@@ -1677,7 +1685,6 @@
         "z": -23083
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 265210,
         "forwardAngle": 64
       },
@@ -1687,7 +1694,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 18568,
       "propertiesShapeDepth": 13107,
       "propertiesShapeTop": 3277,
@@ -1702,7 +1709,6 @@
         "z": -25152
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 263162,
         "forwardAngle": 59
       },
@@ -1712,7 +1718,7 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 10376,
       "propertiesShapeDepth": 5461,
       "propertiesShapeTop": 1092,
@@ -1727,7 +1733,6 @@
         "z": -17190
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259065,
         "forwardAngle": 52
       },
@@ -1747,7 +1752,6 @@
         "z": -20033
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 248828,
         "forwardAngle": 51
       },
@@ -1767,7 +1771,6 @@
         "z": -19683
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 259036,
         "forwardAngle": 58
       },

@@ -139,7 +139,6 @@
         "z": 6340
       },
       "axis": {
-        "upIsGlobalUp3d": false,
         "upQuantization": 261091,
         "forwardAngle": 64
       },
@@ -148,8 +147,7 @@
       "propertiesGameEngineFlags": 1023,
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 180,
-      "propertiesTeamAffiliation": 8,
-      "propertiesShapeType": 0
+      "propertiesTeamAffiliation": 8
     },
     {
       "flags": 137,
@@ -498,6 +496,9 @@
       "definitionIndex": 67,
       "parentObjectIdentifier": 8682940158879662337
     },
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 72
@@ -540,6 +541,12 @@
       "flags": 9,
       "definitionIndex": 73
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 67
@@ -592,6 +599,8 @@
       "flags": 9,
       "definitionIndex": 67
     },
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 67
@@ -768,6 +777,13 @@
       "flags": 9,
       "definitionIndex": 68
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 67
@@ -860,6 +876,7 @@
       "flags": 9,
       "definitionIndex": 67
     },
+    {},
     {
       "flags": 9,
       "definitionIndex": 67
@@ -888,6 +905,8 @@
       "flags": 9,
       "definitionIndex": 67
     },
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 72
@@ -896,6 +915,45 @@
       "flags": 9,
       "definitionIndex": 72
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 9,
       "definitionIndex": 67
@@ -962,8 +1020,6 @@
         "z": 15220
       },
       "axis": {
-        "upIsGlobalUp3d": true,
-        "upQuantization": 0,
         "forwardAngle": 127
       },
       "propertiesCachedObjectType": 13,
@@ -972,12 +1028,22 @@
       "propertiesSharedStorage": 0,
       "propertiesSpawnTime": 0,
       "propertiesTeamAffiliation": 0,
-      "propertiesShapeType": 3,
+      "propertiesShapeType": "BOX",
       "propertiesShapeRadiusWidth": 8738,
       "propertiesShapeDepth": 3277,
       "propertiesShapeTop": 2185,
       "propertiesShapeBottom": 5461
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {
       "flags": 777,
       "definitionIndex": 86,
@@ -1127,6 +1193,8 @@
       "flags": 9,
       "definitionIndex": 93
     },
+    {},
+    {},
     {
       "flags": 777,
       "definitionIndex": 86,
@@ -1375,6 +1443,7 @@
       "flags": 137,
       "definitionIndex": 55
     },
+    {},
     {
       "flags": 137,
       "definitionIndex": 56
