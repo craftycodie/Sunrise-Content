@@ -3,10 +3,18 @@
     {
       "gameEntryWeight": 1,
       "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
+      "skipAfterVeto": true,
       "optional": false,
       "gameVariantFileName": "halo",
       "mapVariantFileName": "legacy_sack_sandbox_halo"
+    },
+    {
+      "gameEntryWeight": 1,
+      "minimumPlayerCount": 1,
+      "skipAfterVeto": true,
+      "optional": false,
+      "gameVariantFileName": "5_min_fiesta",
+      "mapVariantFileName": "mcc_fs_scrapyard"
     }
   ]
 }
