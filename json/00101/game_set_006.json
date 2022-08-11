@@ -1,20 +1,22 @@
 {
-  "gameEntries": [
-    {
-      "gameEntryWeight": 1,
-      "minimumPlayerCount": 4,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "newbie_slayer",
-      "mapVariantFileName": "default_guardian"
-    },
-    {
-      "gameEntryWeight": 1,
-      "minimumPlayerCount": 4,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "newbie_slayer",
-      "mapVariantFileName": "ffa_snowbound"
-    }
-  ]
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "newbie_slayer",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "newbie_slayer",
+        "mapVariantFileName": "ffa_snowbound"
+      }
+    ]
+  }
 }
