@@ -1,12 +1,54 @@
 {
-  "gameEntries": [
-    {
-      "gameEntryWeight": 1,
-      "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "5_min_fiesta",
-      "mapVariantFileName": "mcc_fs_scrapyard"
-    }
-  ]
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_fiesta",
+        "mapVariantFileName": "8_stry_bldg"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_fiesta",
+        "mapVariantFileName": "assault_a_flg"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_fiesta",
+        "mapVariantFileName": "last_bird_out"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_fiesta",
+        "mapVariantFileName": "ram_platform"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_fiesta",
+        "mapVariantFileName": "rideside"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_fiesta",
+        "mapVariantFileName": "socratic_mtd"
+      }
+    ]
+  }
 }
