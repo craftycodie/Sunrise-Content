@@ -1,7 +1,8 @@
 build_script:
   - mkdir blf\storage\title\tracked\12070\default_hoppers
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\12070\default_hoppers blf\storage\title\tracked\12070\default_hoppers
-  - 7z a content.zip .\json\* .\blf\*
+  - 7z a content.zip .\json\*
+  - 7z a content.zip .\blf\*
 artifacts:
   - path: "**/content.zip"
     name: Content
