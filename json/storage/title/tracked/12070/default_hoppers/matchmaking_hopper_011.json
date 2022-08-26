@@ -3320,9 +3320,9 @@
         "allow_parties_to_split": false
       },
       {
-        "name": "Lightswitch",
+        "name": "Quick Match",
         "identifier": 205,
-        "category": 8,
+        "category": 1,
         "type": 0,
         "imageIndex": 11,
         "xLastIndex": 105,
@@ -3388,8 +3388,8 @@
           0,
           0
         ],
-        "experience_points_per_win": 2,
-        "experience_penalty_per_drop": 1,
+        "experience_points_per_win": 1,
+        "experience_penalty_per_drop": 0,
         "minimum_mu_per_level": [
           -7.9767,
           -7.3406,
@@ -3940,7 +3940,7 @@
       {
         "name": "Head to Head",
         "identifier": 206,
-        "category": 0,
+        "category": 10,
         "type": 1,
         "imageIndex": 13,
         "xLastIndex": 8,
@@ -4147,7 +4147,7 @@
         "name": "Ranked Grifball",
         "identifier": 152,
         "category": 0,
-        "type": 3,
+        "type": 4,
         "imageIndex": 9,
         "xLastIndex": 11,
         "richPresenceId": 103,
@@ -4353,7 +4353,7 @@
         "name": "Maption Sack",
         "identifier": 153,
         "category": 1,
-        "type": 2,
+        "type": 4,
         "imageIndex": 9,
         "xLastIndex": 31,
         "richPresenceId": 107,
