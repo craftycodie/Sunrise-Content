@@ -1,12 +1,12 @@
 {
   "gvar": {
     "slayer": {
-      "scoreToWin": 50,
+      "scoreToWin": 25,
       "killPoints": "ONE_POINT",
       "assistPoints": "ZERO_POINTS",
       "deathPoints": "ZERO_POINTS",
-      "suicidePoints": "MINUS_ONE_POINT",
-      "betrayalPoints": "MINUS_ONE_POINT",
+      "suicidePoints": "ZERO_POINTS",
+      "betrayalPoints": "ZERO_POINTS",
       "leaderKilledPoints": "ZERO_POINTS",
       "eliminationPoints": "ZERO_POINTS",
       "assassinationPoints": "ZERO_POINTS",
@@ -40,14 +40,14 @@
       },
       "metadata": {
         "uniqueId": 0,
-        "name": "MLG FFA",
-        "description": "\"MLG Gametypes\" is the official source for the Major League Gaming gametypes. Visit www.MLGpro.com",
+        "name": "Snipers",
+        "description": "Sniper Rifles and Beam Rifles as starting weapons.  25 points to win.",
         "author": "",
         "fileType": "GAME_VARIANT_SLAYER",
         "authorIsXuidOnline": false,
         "authorXuid": "0x0000000000000000",
         "sizeInBytes": 956,
-        "date": "2008-08-13T23:10:56Z",
+        "date": "2010-10-11T21:55:28Z",
         "lengthSeconds": 0,
         "campaignId": -1,
         "mapId": -1,
@@ -61,7 +61,7 @@
         "teams": false,
         "roundResetPlayers": true,
         "roundResetMap": true,
-        "roundTimeLimitMinutes": 10,
+        "roundTimeLimitMinutes": 12,
         "roundLimit": 1,
         "earlyVictoryWinCount": 0
       },
@@ -73,8 +73,8 @@
         "livesPerRound": 0,
         "teamLivesPerRound": 0,
         "respawnTime": 5,
-        "suicideTime": 0,
-        "betrayalTime": 0,
+        "suicideTime": 5,
+        "betrayalTime": 10,
         "respawnGrowthTime": 0,
         "respawnOptionsPlayerTraitsDuration": 0,
         "respawnTraits": {
@@ -115,18 +115,18 @@
         "indestructibleVehicles": false,
         "baseTraits": {
           "damageResistance": "NORMAL",
-          "shieldRechargeRate": "PERCENT_90",
+          "shieldRechargeRate": "PERCENT_100",
           "vampirism": "DISABLED",
           "headshotImmunity": "ENABLED",
           "shieldMultiplier": "NORMAL_SHIELDS",
-          "damageModifier": "PERCENT_110",
-          "primaryWeapon": "BATTLE_RIFLE",
-          "secondaryWeapon": "UNCHANGED",
+          "damageModifier": "PERCENT_100",
+          "primaryWeapon": "SNIPER_RIFLE",
+          "secondaryWeapon": "BEAM_RIFLE",
           "grenadeCount": "MAP_DEFAULT",
-          "infiniteAmmo": "DISABLED",
+          "infiniteAmmo": "ENABLED",
           "rechargingGrenades": "ENABLED",
           "weaponPickupAllowed": "DISABLED",
-          "playerSpeed": "PERCENT_110",
+          "playerSpeed": "PERCENT_100",
           "playerGravity": "PERCENT_100",
           "vehicleUsage": "FULL_USE",
           "activeCamo": "OFF",
@@ -136,8 +136,8 @@
           "motionTacker": "NORMAL",
           "motionTrackerRange": "METERS_25"
         },
-        "weaponSet": "MAP_DEFAULT",
-        "vehicleSet": "NO_VEHICLES",
+        "weaponSet": "NO_WEAPONS",
+        "vehicleSet": "MONGOOSES_ONLY",
         "redPowerupTraits": {
           "damageResistance": "INVULNERABLE",
           "shieldRechargeRate": "PERCENT_100",
@@ -185,11 +185,11 @@
           "motionTrackerRange": "UNCHANGED"
         },
         "yellowPowerupTraits": {
-          "damageResistance": "INVULNERABLE",
-          "shieldRechargeRate": "PERCENT_200",
+          "damageResistance": "UNCHANGED",
+          "shieldRechargeRate": "UNCHANGED",
           "vampirism": "UNCHANGED",
           "headshotImmunity": "UNCHANGED",
-          "shieldMultiplier": "TIMES_3",
+          "shieldMultiplier": "UNCHANGED",
           "damageModifier": "UNCHANGED",
           "primaryWeapon": "UNCHANGED",
           "secondaryWeapon": "UNCHANGED",
@@ -209,7 +209,7 @@
         },
         "redPowerupDuration": 5,
         "bluePowerupDuration": 30,
-        "yellowPowerupDuration": 3
+        "yellowPowerupDuration": 10
       },
       "teamScoringMethod": "SUM_OF_TEAM"
     }
