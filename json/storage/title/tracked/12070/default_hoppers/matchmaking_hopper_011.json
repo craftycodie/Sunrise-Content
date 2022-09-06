@@ -3952,7 +3952,7 @@
         "maximumBaseXp": 0,
         "minimumGamesPlayed": 0,
         "maximumGamesPlayed": 0,
-        "minimumPartySize": 0,
+        "minimumPartySize": 1,
         "maximumPartySize": 7,
         "hopperAccessBit": 0,
         "accountTypeAccess": 2,
@@ -4140,8 +4140,8 @@
         "big_squad_size_threshold": 0,
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
-        "allow_uneven_teams": true,
-        "allow_parties_to_split": true
+        "allow_uneven_teams": false,
+        "allow_parties_to_split": false
       },
       {
         "name": "Living Dead",
