@@ -1,12 +1,12 @@
 {
   "gvar": {
     "slayer": {
-      "scoreToWin": 50,
+      "scoreToWin": 25,
       "killPoints": "ONE_POINT",
       "assistPoints": "ZERO_POINTS",
       "deathPoints": "ZERO_POINTS",
-      "suicidePoints": "ZERO_POINTS",
-      "betrayalPoints": "ZERO_POINTS",
+      "suicidePoints": "MINUS_ONE_POINT",
+      "betrayalPoints": "MINUS_ONE_POINT",
       "leaderKilledPoints": "ZERO_POINTS",
       "eliminationPoints": "ZERO_POINTS",
       "assassinationPoints": "ZERO_POINTS",
@@ -40,14 +40,14 @@
       },
       "metadata": {
         "uniqueId": 0,
-        "name": "Team Slayer",
-        "description": "Form teams for greater glory. 50 kills to win.",
+        "name": "Slayer",
+        "description": "Free for all. 25 kills to win.",
         "author": "",
         "fileType": "GAME_VARIANT_SLAYER",
         "authorIsXuidOnline": false,
         "authorXuid": "0x0000000000000000",
         "sizeInBytes": 956,
-        "date": "2009-06-30T01:33:54Z",
+        "date": "2010-10-11T21:55:25Z",
         "lengthSeconds": 0,
         "campaignId": -1,
         "mapId": -1,
@@ -58,7 +58,7 @@
       },
       "builtIn": false,
       "miscellaneousOptions": {
-        "teams": true,
+        "teams": false,
         "roundResetPlayers": true,
         "roundResetMap": true,
         "roundTimeLimitMinutes": 12,
