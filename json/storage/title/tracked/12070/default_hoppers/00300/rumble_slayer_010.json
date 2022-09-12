@@ -1,7 +1,7 @@
 {
   "gvar": {
     "slayer": {
-      "scoreToWin": 25,
+      "scoreToWin": 20,
       "killPoints": "ONE_POINT",
       "assistPoints": "ZERO_POINTS",
       "deathPoints": "ZERO_POINTS",
@@ -40,8 +40,8 @@
       },
       "metadata": {
         "uniqueId": 0,
-        "name": "Slayer",
-        "description": "Free for all. 25 kills to win.",
+        "name": "5-min Slayer",
+        "description": "Free for all. 20 kills to win.",
         "author": "",
         "fileType": "GAME_VARIANT_SLAYER",
         "authorIsXuidOnline": false,
@@ -61,7 +61,7 @@
         "teams": false,
         "roundResetPlayers": true,
         "roundResetMap": true,
-        "roundTimeLimitMinutes": 12,
+        "roundTimeLimitMinutes": 5,
         "roundLimit": 1,
         "earlyVictoryWinCount": 0
       },
