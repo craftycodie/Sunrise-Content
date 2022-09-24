@@ -88,9 +88,9 @@
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
         "mapVariantFileName": "default_rats_nest"
-	  },
-	  {
-	    "gameEntryWeight": 1,
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 1,
         "skipAfterVeto": false,
         "optional": false,
@@ -113,8 +113,8 @@
         "gameVariantFileName": "5_min_slayer_br",
         "mapVariantFileName": "default_valhalla"
       },
-	  {
-	    "gameEntryWeight": 1,
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 5,
         "skipAfterVeto": false,
         "optional": false,
@@ -128,26 +128,26 @@
         "optional": false,
         "gameVariantFileName": "5_min_crazy_king",
         "mapVariantFileName": "default_guardian"
-	  },
-	  {
-		"gameEntryWeight": 1,
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 2,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_crazy_king",
         "mapVariantFileName": "default_foundry"
-	  },
-	  {
-	    "gameEntryWeight": 1,
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_crazy_king",
         "mapVariantFileName": "year2_epitaph_epilogue"
-	  },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_crazy_king",
@@ -155,7 +155,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
+        "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_oddball",
@@ -163,15 +163,15 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
+        "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_oddball",
-        "mapVariantFileName": "default_cold_storage"
+        "mapVariantFileName": "default_blackout"
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
+        "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_oddball",
@@ -187,13 +187,13 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 12,
+        "minimumPlayerCount": 13,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_fiesta",
         "mapVariantFileName": "default_avalanche"
       },
-	  {
+      {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 12,
         "skipAfterVeto": false,
@@ -232,9 +232,9 @@
         "optional": false,
         "gameVariantFileName": "5_min_fiesta",
         "mapVariantFileName": "default_construct"
-	  },
-	  {
-	    "gameEntryWeight": 1,
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 1,
         "skipAfterVeto": false,
         "optional": false,
@@ -251,7 +251,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 3,
+        "minimumPlayerCount": 1,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_fiesta",
@@ -273,87 +273,71 @@
         "gameVariantFileName": "5_min_fiesta",
         "mapVariantFileName": "default_the_pit"
       },
-	  {
-	    "gameEntryWeight": 1,
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 5,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_fiesta",
         "mapVariantFileName": "sandbox_tundra"
-	  },
-	  {
-	    "gameEntryWeight": 12,
+      },
+      {
+        "gameEntryWeight": 12,
         "minimumPlayerCount": 13,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_fiesta",
         "mapVariantFileName": "default_valhalla"
-	  },
-	  {
-	   "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "mlg_ffa",
-        "mapVariantFileName": "mlg_amplified_v8"
-	  },
-	  {
-	   "gameEntryWeight": 1,
-        "minimumPlayerCount": 5,
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "mlg_ffa",
         "mapVariantFileName": "mlg_ffa_citadel"
-	  },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "mlg_ffa",
         "mapVariantFileName": "mlg_ffa_ldown"
       },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "mlg_ffa",
         "mapVariantFileName": "mlg_guardian_v8"
       },
-	  {
-	   "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "mlg_ffa",
-        "mapVariantFileName": "mlg_onslaught_v8"
-	  },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "mlg_ffa",
         "mapVariantFileName": "mlg_ffa_reactor"
       },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 3,
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "mlg_ffa",
         "mapVariantFileName": "mlg_the_pit_v8"
       },
       {
-	    "gameEntryWeight": 1,
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 5,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "juggernaut",
         "mapVariantFileName": "default_construct"
-	  },
-	  {
+      },
+      {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 2,
         "skipAfterVeto": false,
@@ -361,14 +345,14 @@
         "gameVariantFileName": "juggernaut",
         "mapVariantFileName": "default_foundry"
       },
-	  {
-	    "gameEntryWeight": 1,
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "juggernaut",
         "mapVariantFileName": "default_the_pit"
-	  },
+      },
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 3,
@@ -376,126 +360,142 @@
         "optional": false,
         "gameVariantFileName": "juggernaut",
         "mapVariantFileName": "default_narrows"
-	  },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "ffa_swat",
-        "mapVariantFileName": "default_construct"
-	  },
-	  {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 2,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "ffa_swat",
-        "mapVariantFileName": "default_foundry"
       },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "ffa_swat",
-        "mapVariantFileName": "default_the_pit"
-	  },
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "ffa_swat",
-        "mapVariantFileName": "default_narrows"
-	  },
-	  {
+        "mapVariantFileName": "swat_construct"
+      },
+      {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 2,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "ffa_swat",
-        "mapVariantFileName": "default_guardian"
-	  },
-	  {
-	    "gameEntryWeight": 1,
+        "mapVariantFileName": "swat_foundry"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "ffa_swat",
+        "mapVariantFileName": "swat_pit"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "ffa_swat",
+        "mapVariantFileName": "swat_narrows"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 2,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "ffa_swat",
+        "mapVariantFileName": "swat_guardian"
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 5,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
-        "mapVariantFileName": "default_construct"
-	  },
-	  {
-	    "gameEntryWeight": 1,
+        "mapVariantFileName": "sniper_construct_snipestruct"
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
         "mapVariantFileName": "year2_epitaph_epilogue"
-	  },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "snipers",
-        "mapVariantFileName": "default_narrows"
-	  },
-	  {
-	    "gameEntryWeight": 1,
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
-        "mapVariantFileName": "default_heretic"
+        "mapVariantFileName": "sniper_narrows_sniper_bridge"
       },
-	  {
-	    "gameEntryWeight": 1,
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 1,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
-        "mapVariantFileName": "default_guardian"
-	  },
-	  {
-	    "gameEntryWeight": 1,
+        "mapVariantFileName": "sniper_heretic"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "snipers",
+        "mapVariantFileName": "sniper_guardian_sniper_guardian"
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
-        "mapVariantFileName": "default_the_pit"
+        "mapVariantFileName": "sniper_the_pit_sniper_stop"
       },
-	  {
-	    "gameEntryWeight": 1,
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 1,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
         "mapVariantFileName": "default_foundry"
-	  },
-	  {
-	    "gameEntryWeight": 1,
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 2,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "snipers",
+        "mapVariantFileName": "sniper_blackout_snipeout"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 5,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "snipers",
+        "mapVariantFileName": "sniper_longshore"
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
-        "mapVariantFileName": "sandbox_tundra"
-	  },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 6,
+        "mapVariantFileName": "sniper_isolation_sniperlation"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 7,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
-        "mapVariantFileName": "default_longshore"
-	  },
-	  {
-	    "gameEntryWeight": 1,
-        "minimumPlayerCount": 6,
+        "mapVariantFileName": "sniper_rats_nest_snipers_nest"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 13,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
-        "mapVariantFileName": "default_sandbox"
+        "mapVariantFileName": "sniper_valhalla_sniper_canyon"
       }
     ]
   }
