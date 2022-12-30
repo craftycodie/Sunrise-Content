@@ -3938,7 +3938,7 @@
         "allow_parties_to_split": true
       },
       {
-        "name": "Xenia Test",
+        "name": "Head to Head",
         "identifier": 206,
         "category": 10,
         "type": 0,
@@ -3989,10 +3989,10 @@
         "gather_start_game_early_seconds": 1,
         "gather_give_up_seconds": 1,
         "chance_of_gathering": [
-          100,
-          100,
-          100,
-          100,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
