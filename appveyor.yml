@@ -1,6 +1,10 @@
 build_script:
-  - mkdir blf\storage\title\tracked\12070\default_hoppers
-  - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\12070\default_hoppers blf\storage\title\tracked\12070\default_hoppers
+  - mkdir blf\storage\title\tracked\12070
+  - mkdir blf\storage\title\tracked\11856
+  - mkdir blf\storage\title\tracked\11729
+  - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\12070 blf\storage\title\tracked\12070 12070
+  - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\11856 blf\storage\title\tracked\11856 11856
+  - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\11729 blf\storage\title\tracked\11729 11729
   - 7z a content.zip .\json\*
   - 7z a content.zip .\blf\*
 artifacts:
