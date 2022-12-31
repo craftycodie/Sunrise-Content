@@ -1,0 +1,54 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 12,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "rocket_race",
+        "mapVariantFileName": "race_sandtrap_speed"
+      },
+      {
+        "gameEntryWeight": 10,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "rocket_race",
+        "mapVariantFileName": "race_valhalla_speed"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "rocket_race",
+        "mapVariantFileName": "race_isolation_speed"
+      },
+      {
+        "gameEntryWeight": 12,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "rocket_race",
+        "mapVariantFileName": "race_rats_nest_speed"
+      },
+      {
+        "gameEntryWeight": 12,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "rocket_race",
+        "mapVariantFileName": "race_standoff_speed"
+      },
+      {
+        "gameEntryWeight": 12,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "rocket_race",
+        "mapVariantFileName": "race_avalanche_speed"
+      }
+    ]
+  }
+}

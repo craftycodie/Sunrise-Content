@@ -1,0 +1,78 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball",
+        "mapVariantFileName": "grifball_agla_foundry"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball",
+        "mapVariantFileName": "grifball_agla_sandbox"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball",
+        "mapVariantFileName": "grifball_noxy_court"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball",
+        "mapVariantFileName": "grifball_blockdrop_court"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball_upthere",
+        "mapVariantFileName": "GBL_high"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball_aerial",
+        "mapVariantFileName": "grifball_grifball_naught"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball_aerial",
+        "mapVariantFileName": "grifball_grifball_club"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball_mayan",
+        "mapVariantFileName": "GBL_ultim8"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball_mayan",
+        "mapVariantFileName": "GBL_chichenitza"
+      }
+    ]
+  }
+}
