@@ -1,0 +1,510 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "default_isolation"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "foundry_octoplex"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "sandbox_vindictive"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "sandbox_punishment"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "foundry_octoplex"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "sandbox_vindictive"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "sandbox_utahmambo"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf_br",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf_br",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf_br",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "1_side_ctf_br",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "1_side_ctf_br",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2_bomb_assault",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2_bomb_assault",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2_bomb_assault",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2_bomb_assault",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2_bomb_assault",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": true,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": true,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "sandbox_utahmambo"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "default_foundry"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": true,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_crazy_king",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_crazy_king",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_crazy_king",
+        "mapVariantFileName": "default_blackout"
+      }
+    ]
+  }
+}

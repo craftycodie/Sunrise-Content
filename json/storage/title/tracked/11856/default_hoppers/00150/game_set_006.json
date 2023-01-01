@@ -1,0 +1,134 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_1flag",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_1flag",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_1flag",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_1flag",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_multi_flag",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_multi_flag",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_multi_flag",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_multi_flag",
+        "mapVariantFileName": "noequip_citadel"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "lukems_multi_flag",
+        "mapVariantFileName": "noequip_heretic"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "lukems_oddball",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "lukems_oddball",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "lukems_oddball",
+        "mapVariantFileName": "noequip_heretic"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "lukems_oddball",
+        "mapVariantFileName": "noequip_citadel"
+      }
+    ]
+  }
+}
