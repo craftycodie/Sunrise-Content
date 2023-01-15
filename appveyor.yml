@@ -3,12 +3,14 @@ build_script:
   - mkdir blf\storage\title\tracked\11856
   - mkdir blf\storage\title\tracked\11729
   - mkdir blf\storage\title\tracked\10015
+  - mkdir blf\storage\title\tracked\09699
   - mkdir blf\storage\title\tracked\08172
   - mkdir blf\storage\title\tracked\06481
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\12070 blf\storage\title\tracked\12070 12070
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\11856 blf\storage\title\tracked\11856 11856
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\11729 blf\storage\title\tracked\11729 11729
-  #- tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\10015 blf\storage\title\tracked\10015 10015
+  - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\10015 blf\storage\title\tracked\10015 10015
+  - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\09699 blf\storage\title\tracked\09699 09699
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\08172 blf\storage\title\tracked\08172 08172
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\06481 blf\storage\title\tracked\06481 06481
   - 7z a content.zip .\json\*

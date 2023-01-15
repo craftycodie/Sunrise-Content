@@ -1,0 +1,390 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_elim_swords",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_elim_swords",
+        "mapVariantFileName": "swat_pit"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_elim_swords",
+        "mapVariantFileName": "default_heretic"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_punchout",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_punchout",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_punchout",
+        "mapVariantFileName": "default_cold_storage"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_construct"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_splasers",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_splasers",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_splasers",
+        "mapVariantFileName": "default_cold_storage"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_splasers",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_fiesta",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_fiesta",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_fiesta",
+        "mapVariantFileName": "default_cold_storage"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_fiesta",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_fiesta",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "tug_of_war",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "tug_of_war",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "tug_of_war",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "tug_of_war",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "tug_of_war",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "tug_of_war",
+        "mapVariantFileName": "default_heretic"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2flag_shotty",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2flag_shotty",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2flag_shotty",
+        "mapVariantFileName": "swat_pit"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2flag_shotty",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2flag_shotty",
+        "mapVariantFileName": "default_citadel"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "pit_of_joy",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "pit_of_joy",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "pit_of_joy",
+        "mapVariantFileName": "default_cold_storage"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "pit_of_joy",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_sumo",
+        "mapVariantFileName": "sandbox_sumogrande"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "vip_runforcover",
+        "mapVariantFileName": "sandbox_zeus"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault_ninja",
+        "mapVariantFileName": "sandbox_utahmambo"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault_ninja",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault_ninja",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball",
+        "mapVariantFileName": "grifball_agla_sandbox"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_stickies",
+        "mapVariantFileName": "sticky_coldstorage"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_stickies",
+        "mapVariantFileName": "sticky_assembly"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "dodgeball",
+        "mapVariantFileName": "dodgeball_foundry"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "dodgeball",
+        "mapVariantFileName": "dodgeball_sandbox"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "grifball_mayan",
+        "mapVariantFileName": "GBL_chichenitza"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_isolation"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_blackout"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_sandbox"
+      }
+    ]
+  }
+}
