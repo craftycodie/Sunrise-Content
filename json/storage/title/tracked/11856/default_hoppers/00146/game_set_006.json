@@ -2,44 +2,44 @@
   "gset": {
     "gameEntries": [
       {
-        "gameEntryWeight": 6,
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 2,
         "skipAfterVeto": false,
         "optional": false,
-        "gameVariantFileName": "brawl_slayer",
-        "mapVariantFileName": "ffa_sandtrap"
+        "gameVariantFileName": "duel_slayer",
+        "mapVariantFileName": "default_assembly"
       },
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 2,
         "skipAfterVeto": false,
         "optional": false,
-        "gameVariantFileName": "brawl_rockets",
-        "mapVariantFileName": "ffa_sandtrap"
+        "gameVariantFileName": "duel_slayer",
+        "mapVariantFileName": "default_citadel"
       },
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 2,
         "skipAfterVeto": false,
         "optional": false,
-        "gameVariantFileName": "brawl_mosh_pit",
-        "mapVariantFileName": "ffa_sandtrap"
+        "gameVariantFileName": "duel_slayer",
+        "mapVariantFileName": "default_epitaph"
       },
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 2,
         "skipAfterVeto": false,
         "optional": false,
-        "gameVariantFileName": "brawl_laser_tag",
-        "mapVariantFileName": "ffa_sandtrap"
+        "gameVariantFileName": "duel_slayer",
+        "mapVariantFileName": "default_guardian"
       },
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 2,
         "skipAfterVeto": false,
         "optional": false,
-        "gameVariantFileName": "brawl_snipers",
-        "mapVariantFileName": "ffa_sandtrap"
+        "gameVariantFileName": "duel_slayer",
+        "mapVariantFileName": "default_snowbound"
       }
     ]
   }
