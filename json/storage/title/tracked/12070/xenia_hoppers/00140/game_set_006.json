@@ -1,0 +1,182 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_isolation"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag_tanks",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag_tanks",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag_tanks",
+        "mapVariantFileName": "default_avalanche"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 8,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag_tanks",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag_tanks",
+        "mapVariantFileName": "default_avalanche"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "sandbox_utahmambo"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_longshore"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "two_flag_heavy",
+        "mapVariantFileName": "heavy_valhalla"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "two_flag_heavy",
+        "mapVariantFileName": "heavy_standoff"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "two_flag_heavy",
+        "mapVariantFileName": "heavy_avalanche"
+      }
+    ]
+  }
+}
