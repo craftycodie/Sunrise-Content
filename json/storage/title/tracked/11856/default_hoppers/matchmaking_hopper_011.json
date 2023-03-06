@@ -19,7 +19,7 @@
       {
         "identifier": 9,
         "image": 5,
-        "name": "DLC"
+        "name": "Playtesting"
       }
     ],
     "configurations": [
@@ -4765,7 +4765,7 @@
         "name": "Xenia Test",
         "identifier": 146,
         "category": 9,
-        "type": 0,
+        "type": 2,
         "imageIndex": 9,
         "xLastIndex": 16,
         "richPresenceId": 107,
@@ -4804,7 +4804,7 @@
         "quitter_filter_percentage": 20,
         "quitter_filter_maximum_party_size": 1,
         "rematch_countdown_timer": 15,
-        "rematch_group_formation": 0,
+        "rematch_group_formation": 1,
         "repeated_opponents_to_consider_for_penalty": 64,
         "repeated_opponents_experience_threshold": 0,
         "repeated_opponents_skill_throttle_start": 2,
@@ -4830,7 +4830,7 @@
           0,
           0
         ],
-        "experience_points_per_win": 2,
+        "experience_points_per_win": 1,
         "experience_penalty_per_drop": 1,
         "minimum_mu_per_level": [
           -7.9767,
@@ -4957,9 +4957,9 @@
         "quality_update_weight_q100": 100,
         "minimum_player_count": 1,
         "maximum_player_count": 1,
-        "team_count": 0,
+        "team_count": 1,
         "minimum_team_size": 0,
-        "maximum_team_size": 0,
+        "maximum_team_size": 1,
         "maximum_team_imbalance": 0,
         "big_squad_size_threshold": 0,
         "maximum_big_squad_imbalance": 0,
