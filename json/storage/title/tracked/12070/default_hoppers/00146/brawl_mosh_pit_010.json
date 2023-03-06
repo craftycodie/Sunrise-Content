@@ -1,26 +1,20 @@
 {
   "gvar": {
-    "slayer": {
-      "scoreToWin": 10,
-      "killPoints": "ONE_POINT",
-      "assistPoints": "ZERO_POINTS",
-      "deathPoints": "ZERO_POINTS",
-      "suicidePoints": "MINUS_ONE_POINT",
-      "betrayalPoints": "MINUS_ONE_POINT",
-      "leaderKilledPoints": "ZERO_POINTS",
-      "eliminationPoints": "ZERO_POINTS",
-      "assassinationPoints": "ZERO_POINTS",
-      "headshotPoints": "ZERO_POINTS",
-      "meleePoints": "ZERO_POINTS",
-      "stickyPoints": "ZERO_POINTS",
-      "splatterPoints": "ZERO_POINTS",
-      "killingSpreePoints": "ZERO_POINTS",
-      "leaderTraits": {
+    "kingOfTheHill": {
+      "opaqueHill": false,
+      "scoreToWin": 150,
+      "movingHill": 4,
+      "movingHillOrder": 0,
+      "insideHillPoints": "ONE_POINT",
+      "outsideHillPoints": "ZERO_POINTS",
+      "uncontestedHillBonus": "ZERO_POINTS",
+      "kingKillPoints": "ZERO_POINTS",
+      "hillTraits": {
         "damageResistance": "UNCHANGED",
-        "shieldRechargeRate": "UNCHANGED",
+        "shieldRechargeRate": "PERCENT_200",
         "vampirism": "UNCHANGED",
         "headshotImmunity": "UNCHANGED",
-        "shieldMultiplier": "UNCHANGED",
+        "shieldMultiplier": "TIMES_2",
         "damageModifier": "UNCHANGED",
         "primaryWeapon": "UNCHANGED",
         "secondaryWeapon": "UNCHANGED",
@@ -32,7 +26,7 @@
         "playerGravity": "UNCHANGED",
         "vehicleUsage": "UNCHANGED",
         "activeCamo": "UNCHANGED",
-        "waypoint": "VISIBLE_TO_EVERYONE",
+        "waypoint": "UNCHANGED",
         "playerAura": "UNCHANGED",
         "forcedColorChange": "UNCHANGED",
         "motionTacker": "UNCHANGED",
@@ -40,28 +34,28 @@
       },
       "metadata": {
         "uniqueId": 0,
-        "name": "Slayer Duel",
-        "description": "Score points by killing players on the opposing team. First to 10 points wins.",
-        "author": "Bungie",
-        "fileType": "GAME_VARIANT_SLAYER",
+        "name": "Brawl Mosh Pit",
+        "description": "Everyone inside is tougher. 150 points to win.",
+        "author": "",
+        "fileType": "GAME_VARIANT_KING",
         "authorIsXuidOnline": false,
         "authorXuid": "0x0000000000000000",
-        "sizeInBytes": 1561,
-        "date": "2022-08-21T21:22:33Z",
+        "sizeInBytes": 956,
+        "date": "2010-10-11T21:55:28Z",
         "lengthSeconds": 0,
         "campaignId": -1,
         "mapId": -1,
-        "gameEngineType": "SLAYER",
+        "gameEngineType": "KOTH",
         "campaignDifficulty": 0,
         "hopperId": -1,
         "gameId": 0
       },
-      "builtIn": true,
+      "builtIn": false,
       "miscellaneousOptions": {
-        "teams": true,
+        "teams": false,
         "roundResetPlayers": true,
         "roundResetMap": true,
-        "roundTimeLimitMinutes": 10,
+        "roundTimeLimitMinutes": 12,
         "roundLimit": 1,
         "earlyVictoryWinCount": 0
       },
@@ -76,7 +70,7 @@
         "suicideTime": 10,
         "betrayalTime": 10,
         "respawnGrowthTime": 0,
-        "respawnOptionsPlayerTraitsDuration": 45,
+        "respawnOptionsPlayerTraitsDuration": 0,
         "respawnTraits": {
           "damageResistance": "UNCHANGED",
           "shieldRechargeRate": "UNCHANGED",
@@ -94,7 +88,7 @@
           "playerGravity": "UNCHANGED",
           "vehicleUsage": "UNCHANGED",
           "activeCamo": "UNCHANGED",
-          "waypoint": "NO_WAYPOINT",
+          "waypoint": "UNCHANGED",
           "playerAura": "UNCHANGED",
           "forcedColorChange": "UNCHANGED",
           "motionTacker": "UNCHANGED",
@@ -103,9 +97,9 @@
       },
       "socialOptions": {
         "observers": false,
-        "teamChanging": 1,
+        "teamChanging": 0,
         "friendlyFire": true,
-        "betrayalBooting": false,
+        "betrayalBooting": true,
         "enemyVoice": false,
         "openChannelVoice": false,
         "deadPlayerVoice": false
@@ -121,8 +115,8 @@
           "shieldMultiplier": "NORMAL_SHIELDS",
           "damageModifier": "PERCENT_100",
           "primaryWeapon": "ASSAULT_RIFLE",
-          "secondaryWeapon": "NONE",
-          "grenadeCount": "UNCHANGED",
+          "secondaryWeapon": "UNCHANGED",
+          "grenadeCount": "MAP_DEFAULT",
           "infiniteAmmo": "DISABLED",
           "rechargingGrenades": "ENABLED",
           "weaponPickupAllowed": "DISABLED",
@@ -137,7 +131,7 @@
           "motionTrackerRange": "METERS_25"
         },
         "weaponSet": "MAP_DEFAULT",
-        "vehicleSet": "NO_VEHICLES",
+        "vehicleSet": "ALL_VEHICLES",
         "redPowerupTraits": {
           "damageResistance": "INVULNERABLE",
           "shieldRechargeRate": "PERCENT_100",
@@ -211,7 +205,7 @@
         "bluePowerupDuration": 30,
         "yellowPowerupDuration": 10
       },
-      "teamScoringMethod": "SUM_OF_TEAM"
+      "teamScoringMethod": 3
     }
   }
 }
