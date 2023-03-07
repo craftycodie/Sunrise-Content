@@ -1,0 +1,24 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "mapId": 310,
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 2,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "10_min_slayer",
+        "mapVariantFileName": "deadlock"
+      },
+      {
+        "mapId": 360,
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 2,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "10_min_slayer",
+        "mapVariantFileName": "snowbound"
+      }
+    ]
+  }
+}
