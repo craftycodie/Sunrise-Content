@@ -1,12 +1,14 @@
 {
-  "gameEntries": [
-    {
-      "gameEntryWeight": 1,
-      "minimumPlayerCount": 1,
-      "skipAfterVeto": false,
-      "optional": false,
-      "gameVariantFileName": "halo",
-      "mapVariantFileName": "legacy_sack_sandbox_halo"
-    }
-  ]
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "halo",
+        "mapVariantFileName": "legacy_sack_sandbox_halo"
+      }
+    ]
+  }
 }
