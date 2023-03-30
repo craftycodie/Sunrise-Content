@@ -25,6 +25,14 @@
         "gameVariantFileName": "5_min_slayer_br",
         "mapVariantFileName": "default_cold_storage"
       },
+	  {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_slayer_br",
+        "mapVariantFileName": "default_guardian"
+      },
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 4,
@@ -47,19 +55,11 @@
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
-        "mapVariantFileName": "default_guardian"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_slayer_br",
         "mapVariantFileName": "default_heretic"
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 8,
+        "minimumPlayerCount": 11,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
@@ -67,7 +67,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 9,
+        "minimumPlayerCount": 11,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
@@ -95,7 +95,7 @@
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
-        "mapVariantFileName": "sandbox_tundra"
+        "mapVariantFileName": "default_isolation"
       },
       {
         "gameEntryWeight": 1,
@@ -127,6 +127,14 @@
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_oddball",
+        "mapVariantFileName": "default_snowbound"
+      },
+	  {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 5,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_slayer_br",
         "mapVariantFileName": "default_snowbound"
       },
       {
@@ -211,38 +219,6 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 5,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_fiesta",
-        "mapVariantFileName": "sandbox_tundra"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_mlg_ffa",
-        "mapVariantFileName": "mlg_ffa_citadel"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_mlg_ffa",
-        "mapVariantFileName": "mlg_ffa_ldown"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_mlg_ffa",
-        "mapVariantFileName": "mlg_guardian_v8"
-      },
-      {
-        "gameEntryWeight": 1,
         "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
@@ -255,8 +231,40 @@
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_mlg_ffa",
-        "mapVariantFileName": "mlg_the_pit_v8"
+        "mapVariantFileName": "mlg_heretic_v8"
       },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 5,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_mlg_ffa",
+        "mapVariantFileName": "mlg_ffa_citadel"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 5,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_mlg_ffa",
+        "mapVariantFileName": "mlg_ffa_ldown"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 5,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_mlg_ffa",
+        "mapVariantFileName": "mlg_guardian_v8"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 5,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_mlg_ffa",
+        "mapVariantFileName": "mlg_the_pit_v8"
+      },  
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 4,
@@ -339,7 +347,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
+        "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
@@ -347,15 +355,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 2,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "snipers",
-        "mapVariantFileName": "sniper_blackout_snipeout"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 6,
+        "minimumPlayerCount": 11,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
@@ -363,15 +363,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "snipers",
-        "mapVariantFileName": "sniper_isolation_sniperlation"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 9,
+        "minimumPlayerCount": 11,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
