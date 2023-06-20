@@ -436,7 +436,7 @@
         "category": 1,
         "type": 0,
         "imageIndex": 11,
-        "xLastIndex": 6,
+        "xLastIndex": 2,
         "richPresenceId": 2,
         "startTime": 0,
         "endTime": 0,
@@ -642,7 +642,7 @@
         "category": 1,
         "type": 2,
         "imageIndex": 9,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 3,
         "startTime": 0,
         "endTime": 0,
@@ -848,7 +848,7 @@
         "category": 1,
         "type": 2,
         "imageIndex": 10,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 4,
         "startTime": 0,
         "endTime": 0,
@@ -1048,7 +1048,7 @@
         "allow_uneven_teams": false,
         "allow_parties_to_split": true
       },
-      {
+	  {
         "name": "Social Doubles",
         "identifier": 107,
         "category": 1,
@@ -1248,13 +1248,13 @@
         "minimum_team_size": 1,
         "maximum_team_size": 1,
         "maximum_team_imbalance": 0,
-        "big_squad_size_threshold": 0,
+        "big_squad_size_threshold": 1,
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
         "allow_parties_to_split": false
       },
-      {
+	  {
         "name": "Social Swat",
         "identifier": 201,
         "category": 1,
@@ -1454,7 +1454,7 @@
         "minimum_team_size": 2,
         "maximum_team_size": 3,
         "maximum_team_imbalance": 0,
-        "big_squad_size_threshold": 0,
+        "big_squad_size_threshold": 2,
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
@@ -2084,7 +2084,7 @@
         "category": 1,
         "type": 2,
         "imageIndex": 9,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 5,
         "startTime": 0,
         "endTime": 0,
@@ -2490,7 +2490,7 @@
         "allow_uneven_teams": false,
         "allow_parties_to_split": false
       },
-      {
+	  {
         "name": "Team Throwback",
         "identifier": 150,
         "category": 11,
@@ -2696,13 +2696,13 @@
         "allow_uneven_teams": false,
         "allow_parties_to_split": false
       },
-      {
+	  {
         "name": "Maption Sack",
         "identifier": 153,
         "category": 11,
         "type": 2,
         "imageIndex": 9,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 107,
         "startTime": 0,
         "endTime": 0,
@@ -2908,7 +2908,7 @@
         "category": 11,
         "type": 0,
         "imageIndex": 9,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 107,
         "startTime": 0,
         "endTime": 0,
@@ -3114,7 +3114,7 @@
         "category": 11,
         "type": 2,
         "imageIndex": 5,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 107,
         "startTime": 0,
         "endTime": 0,
@@ -3526,7 +3526,7 @@
         "category": 11,
         "type": 2,
         "imageIndex": 37,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 107,
         "startTime": 0,
         "endTime": 0,
@@ -3720,7 +3720,7 @@
         "minimum_team_size": 2,
         "maximum_team_size": 3,
         "maximum_team_imbalance": 0,
-        "big_squad_size_threshold": 0,
+        "big_squad_size_threshold": 2,
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
@@ -3932,13 +3932,13 @@
         "allow_uneven_teams": false,
         "allow_parties_to_split": false
       },
-      {
+	  {
         "name": "Team Flag",
         "identifier": 140,
         "category": 11,
         "type": 2,
         "imageIndex": 37,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 107,
         "startTime": 0,
         "endTime": 0,
@@ -4132,13 +4132,13 @@
         "minimum_team_size": 4,
         "maximum_team_size": 4,
         "maximum_team_imbalance": 0,
-        "big_squad_size_threshold": 0,
+        "big_squad_size_threshold": 2,
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
         "allow_parties_to_split": false
       },
-      {
+	  {
         "name": "Grifball",
         "identifier": 126,
         "category": 11,
@@ -4344,13 +4344,13 @@
         "allow_uneven_teams": false,
         "allow_parties_to_split": true
       },
-      {
+	  {
         "name": "3 Ball",
         "identifier": 132,
         "category": 11,
         "type": 2,
         "imageIndex": 10,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 107,
         "startTime": 0,
         "endTime": 0,
@@ -4556,7 +4556,7 @@
         "category": 11,
         "type": 0,
         "imageIndex": 9,
-        "xLastIndex": 6,
+        "xLastIndex": 27,
         "richPresenceId": 107,
         "startTime": 0,
         "endTime": 0,
@@ -4756,7 +4756,7 @@
         "allow_uneven_teams": false,
         "allow_parties_to_split": false
       },
-      {
+	  {
         "name": "Head to Head",
         "identifier": 206,
         "category": 10,
@@ -4962,7 +4962,7 @@
         "allow_uneven_teams": false,
         "allow_parties_to_split": false
       },
-      {
+	  {
         "name": "Fusion",
         "identifier": 333,
         "category": 10,
@@ -5168,7 +5168,7 @@
         "allow_uneven_teams": false,
         "allow_parties_to_split": false
       },
-      {
+	  {
         "name": "Quick Match",
         "identifier": 205,
         "category": 11,
