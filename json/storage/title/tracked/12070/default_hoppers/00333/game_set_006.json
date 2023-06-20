@@ -11,7 +11,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 3,
+        "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
@@ -25,7 +25,7 @@
         "gameVariantFileName": "5_min_slayer_br",
         "mapVariantFileName": "default_cold_storage"
       },
-	  {
+      {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 1,
         "skipAfterVeto": false,
@@ -51,27 +51,19 @@
       },
       {
         "gameEntryWeight": 1,
+        "minimumPlayerCount": 5,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5_min_slayer_br",
+        "mapVariantFileName": "default_assembly"
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 1,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
         "mapVariantFileName": "default_heretic"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 11,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_slayer_br",
-        "mapVariantFileName": "default_longshore"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 11,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_slayer_br",
-        "mapVariantFileName": "default_rats_nest"
       },
       {
         "gameEntryWeight": 1,
@@ -83,7 +75,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
+        "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
@@ -96,6 +88,94 @@
         "optional": false,
         "gameVariantFileName": "5_min_slayer_br",
         "mapVariantFileName": "default_isolation"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 5,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "default_heretic"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "default_citadel"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 7,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "default_construct"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 7,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 7,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 7,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 11,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "default_longshore"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 11,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "default_isolation"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 11,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "slayer_br",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 14,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "snipers",
+        "mapVariantFileName": "default_last_resort"
       },
       {
         "gameEntryWeight": 1,
@@ -127,23 +207,7 @@
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_oddball",
-        "mapVariantFileName": "default_snowbound"
-      },
-	  {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 5,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_slayer_br",
-        "mapVariantFileName": "default_snowbound"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_fiesta",
-        "mapVariantFileName": "default_assembly"
+        "mapVariantFileName": "year2_snowbound_boundless"
       },
       {
         "gameEntryWeight": 1,
@@ -171,7 +235,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
+        "minimumPlayerCount": 5,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "5_min_fiesta",
@@ -200,14 +264,6 @@
         "optional": false,
         "gameVariantFileName": "5_min_fiesta",
         "mapVariantFileName": "default_heretic"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 6,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "5_min_fiesta",
-        "mapVariantFileName": "default_sandbox"
       },
       {
         "gameEntryWeight": 1,
@@ -264,38 +320,22 @@
         "optional": false,
         "gameVariantFileName": "5_min_mlg_ffa",
         "mapVariantFileName": "mlg_the_pit_v8"
-      },  
+      },
       {
         "gameEntryWeight": 1,
         "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "juggernaut",
-        "mapVariantFileName": "default_construct"
+        "mapVariantFileName": "year2_epitaph_epilogue"
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 2,
+        "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "juggernaut",
         "mapVariantFileName": "default_foundry"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 4,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "juggernaut",
-        "mapVariantFileName": "default_the_pit"
-      },
-      {
-        "gameEntryWeight": 1,
-        "minimumPlayerCount": 3,
-        "skipAfterVeto": false,
-        "optional": false,
-        "gameVariantFileName": "juggernaut",
-        "mapVariantFileName": "default_narrows"
       },
       {
         "gameEntryWeight": 1,
@@ -307,6 +347,14 @@
       },
       {
         "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "snipers",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 1,
         "minimumPlayerCount": 3,
         "skipAfterVeto": false,
         "optional": false,
@@ -315,7 +363,7 @@
       },
       {
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 3,
+        "minimumPlayerCount": 4,
         "skipAfterVeto": false,
         "optional": false,
         "gameVariantFileName": "snipers",
@@ -368,6 +416,14 @@
         "optional": false,
         "gameVariantFileName": "snipers",
         "mapVariantFileName": "sniper_rats_nest_snipers_nest"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 14,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "snipers",
+        "mapVariantFileName": "default_last_resort"
       }
     ]
   }
