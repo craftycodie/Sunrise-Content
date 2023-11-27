@@ -23,4 +23,6 @@ This repository is frequently converted back to blf and uploaded to the sunrise 
 - 10015 - Halo 3 Beta (TU? May 15th)
 - 09699 - Halo 3 Beta (May 1st)
 - 08172 - Halo 3 Delta (March 8th, 2007)
-- 06481 - Halo 3 Alpha
+- 06481 - Halo 3 Alpha (MP Build, TU1 I think)
+- ????? - Halo 3 Alpha (MP Build)
+- ????? - Halo 3 Alpha (SP Build)
