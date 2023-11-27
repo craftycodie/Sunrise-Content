@@ -9,7 +9,9 @@ build_script:
   - mkdir blf\storage\title\tracked\06481
   - tools\Sunrise-BlfTool.exe blf json\storage\title\4d530877\tracked\13895 blf\storage\title\4d530877\tracked\13895 13895
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\12070 blf\storage\title\tracked\12070 12070
+  - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\12070 blf\storage\title\tracked\11902 12070
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\11856 blf\storage\title\tracked\11856 11856
+  - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\12070 blf\storage\title\tracked\11855 12070
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\11729 blf\storage\title\tracked\11729 11729
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\10015 blf\storage\title\tracked\10015 10015
   - tools\Sunrise-BlfTool.exe blf json\storage\title\tracked\09699 blf\storage\title\tracked\09699 09699
