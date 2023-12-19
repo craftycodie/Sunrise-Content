@@ -20,7 +20,8 @@ This repository is frequently converted back to blf and uploaded to the sunrise 
 - 11856 - Halo 3 Epsilon (Aug 20th 2007)
 - 11855 - Halo 3 Retail (Aug 20th)
 - 11729 - Halo 3 Epsilon (Aug 10th 2007)
-- 10015 - Halo 3 Beta (TU? May 15th)
+- 10015 - Halo 3 Beta (TU May 15th)
 - 09699 - Halo 3 Beta (May 1st)
-- 08172 - Halo 3 Delta (March 8th, 2007)
+- 08172 - Halo 3 Pre-Beta (March 8th, 2007)
+- 08117 - Halo 3 Pre-Beta (March 7th, 2007)
 - 06481 - Halo 3 Alpha
