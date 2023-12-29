@@ -1,0 +1,22 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "mapId": 350,
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": true,
+        "gameVariantFileName": "default_slayer",
+        "mapVariantFileName": "salvation"
+      },
+      {
+        "mapId": 360,
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": true,
+        "gameVariantFileName": "default_slayer",
+        "mapVariantFileName": "snowbound"
+      }
+    ]
+  }
+}
