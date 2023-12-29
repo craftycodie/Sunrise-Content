@@ -1,0 +1,70 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_construct"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_orbital"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_isolation"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_scuds",
+        "mapVariantFileName": "default_blackout"
+      }
+    ]
+  }
+}
