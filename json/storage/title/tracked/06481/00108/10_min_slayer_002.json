@@ -22,8 +22,8 @@
         "headshotImmunity": "UNCHANGED",
         "shieldMultiplier": "UNCHANGED",
         "damageModifier": "UNCHANGED",
-        "primaryWeapon": "NEEDLER",
-        "secondaryWeapon": "ROCKET_LAUNCHER",
+        "primaryWeapon": "MISSILE_POD",
+        "secondaryWeapon": "NONE",
         "grenadeCount": "UNCHANGED",
         "infiniteAmmo": "UNCHANGED",
         "rechargingGrenades": "UNCHANGED",
@@ -62,7 +62,7 @@
         "motionTrackerRange": "UNCHANGED"
       },
       "metadata": {
-        "name": "Slayer",
+        "name": "Weapons Test",
         "description": "Free for all. 25 kills to win."
       },
       "builtIn": false,
@@ -129,9 +129,9 @@
           "headshotImmunity": "ENABLED",
           "shieldMultiplier": "NORMAL_SHIELDS",
           "damageModifier": "PERCENT_100",
-          "primaryWeapon": "COVENANT_CARBINE",
-          "secondaryWeapon": "ENERGY_SWORD",
-          "grenadeCount": "MAP_DEFAULT",
+          "primaryWeapon": "MAP_DEFAULT",
+          "secondaryWeapon": "NONE",
+          "grenadeCount": "NONE",
           "infiniteAmmo": "DISABLED",
           "rechargingGrenades": "ENABLED",
           "weaponPickupAllowed": "DISABLED",
