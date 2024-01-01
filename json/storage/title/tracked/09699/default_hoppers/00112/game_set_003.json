@@ -1,0 +1,132 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 9,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_slayer",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 9,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_slayer",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_br",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_br",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_snipers",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_snipers",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_ball",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_ball",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_hill",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_hill",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_2flag",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_2flag",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_1flag",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_1flag",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      }
+    ]
+  }
+}
