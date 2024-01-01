@@ -1,0 +1,22 @@
+title_name = "Halo 3" # 08172.07.03.08.2240.delta halo3_cache_test
+title_id = "4D5307E6" # MS-2022
+hash = "B7F1540807BA8C70"
+
+[[patch]]
+    name = "Allow this build to write game variants for the public beta."
+    desc = "This fixes an issue where the net_build_game_variant command write a game variant file with a version of 1 instead of 5 and disables the crc check."
+    author = "craftycodie"
+    is_enabled = true
+
+    [[patch.be8]]
+        address = 0x8271165B
+        value = 5
+    [[patch.be8]]
+        address = 0x8271167B
+        value = 0x11
+    [[patch.be8]]
+        address = 0x823B4E4B
+        value = 0x11
+    [[patch.be8]]
+        address = 0x827115E7
+        value = 0
