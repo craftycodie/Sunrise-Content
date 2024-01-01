@@ -4,16 +4,14 @@
       {
         "mapId": 310,
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
-        "gameVariantFileName": "default_slayer",
-        "mapVariantFileName": "deadlock"
+        "minimumPlayerCount": 2,
+        "gameVariantFileName": "test_game"
       },
       {
         "mapId": 360,
         "gameEntryWeight": 1,
-        "minimumPlayerCount": 1,
-        "gameVariantFileName": "default_slayer",
-        "mapVariantFileName": "snowbound"
+        "minimumPlayerCount": 2,
+        "gameVariantFileName": "test_game"
       }
     ]
   }
