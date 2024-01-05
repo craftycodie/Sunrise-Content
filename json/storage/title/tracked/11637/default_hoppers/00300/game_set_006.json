@@ -1,0 +1,22 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "newbie_slayer",
+        "mapVariantFileName": "ffa_snowbound"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 1,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "newbie_slayer",
+        "mapVariantFileName": "ffa_snowbound"
+      }
+    ]
+  }
+}
