@@ -1,0 +1,302 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_construct"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "year2_the_pit_pitstop"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_citadel"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "5v5_team_slayer",
+        "mapVariantFileName": "default_heretic"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_construct"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": true,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": true,
+        "gameVariantFileName": "team_rockets",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_duals",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_duals",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": true,
+        "gameVariantFileName": "team_slayer_duals",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": true,
+        "gameVariantFileName": "team_slayer_duals",
+        "mapVariantFileName": "default_citadel"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": true,
+        "gameVariantFileName": "team_slayer_duals",
+        "mapVariantFileName": "default_heretic"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_guardian"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_construct"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_high_ground"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_narrows"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "year2_snowbound_boundless"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_the_pit"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_ghost_town"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_citadel"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_heretic"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": true,
+        "gameVariantFileName": "team_slayer_br",
+        "mapVariantFileName": "default_longshore"
+      }
+    ]
+  }
+}

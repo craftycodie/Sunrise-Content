@@ -1,0 +1,510 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "default_sandtrap"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer_tanks",
+        "mapVariantFileName": "year2_sandtrap_sandtarp"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer_tanks",
+        "mapVariantFileName": "heavy_sandtrap"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer_tanks",
+        "mapVariantFileName": "heavy_standoff"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "default_avalanche"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer_tanks",
+        "mapVariantFileName": "heavy_avalanche"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "sandbox_vindictive"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "sandbox_wastelands"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "atlas_workplacebravo"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_slayer",
+        "mapVariantFileName": "default_longshore"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_sandtrap"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_avalanche"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "sandbox_vindictive"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "sandbox_wastelands"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_multiflag",
+        "mapVariantFileName": "sandbox_entrenched"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_neutral_assault",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_neutral_assault",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_neutral_assault",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_neutral_assault",
+        "mapVariantFileName": "default_avalanche"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_neutral_assault",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_neutral_assault",
+        "mapVariantFileName": "sandbox_vindictive"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_neutral_assault",
+        "mapVariantFileName": "sandbox_wastelands"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_neutral_assault",
+        "mapVariantFileName": "sandbox_entrenched"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_territories",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_territories",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_territories",
+        "mapVariantFileName": "default_sandtrap"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_territories_tanks",
+        "mapVariantFileName": "year2_sandtrap_sandtarp"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_territories",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_territories",
+        "mapVariantFileName": "default_avalanche"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_territories",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_rocket_lasers",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_rocket_lasers",
+        "mapVariantFileName": "default_sandtrap"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_rocket_lasers",
+        "mapVariantFileName": "year2_sandtrap_sandtarp"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_rocket_lasers",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_rocket_lasers",
+        "mapVariantFileName": "default_standoff"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_rocket_lasers",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_rocket_lasers",
+        "mapVariantFileName": "sandbox_vindictive"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_rocket_lasers",
+        "mapVariantFileName": "sandbox_wastelands"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_side_assault",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_side_assault",
+        "mapVariantFileName": "year2_sandtrap_sandtarp"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_side_assault",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_side_assault",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_side_assault",
+        "mapVariantFileName": "default_avalanche"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_side_assault",
+        "mapVariantFileName": "default_longshore"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_land_grab",
+        "mapVariantFileName": "default_valhalla"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_land_grab",
+        "mapVariantFileName": "default_sandtrap"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_land_grab",
+        "mapVariantFileName": "default_rats_nest"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_land_grab",
+        "mapVariantFileName": "default_sandbox"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "two_flag_heavy",
+        "mapVariantFileName": "heavy_valhalla"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "two_flag_heavy",
+        "mapVariantFileName": "heavy_standoff"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "two_flag_heavy",
+        "mapVariantFileName": "heavy_avalanche"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_last_resort"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag_tanks",
+        "mapVariantFileName": "default_avalanche"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag_tanks",
+        "mapVariantFileName": "atlas_eightygrit"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 10,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "big_team_1_flag",
+        "mapVariantFileName": "default_longshore"
+      }
+    ]
+  }
+}
