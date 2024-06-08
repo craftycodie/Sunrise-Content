@@ -1,11 +1,16 @@
 {
-  "mhcf": {
-    "categories": [],
+  "mhcf": {"category": 1,
+    "categories": [
+      {
+        "name": "Test Playlists",
+        "identifier": 6
+      }
+    ],
     "configurations": [
       {
         "name": "Xenia Test",
         "identifier": 108,
-        "category": 4,
+        "category": 6,
         "type": 0,
         "imageIndex": 1,
         "xLastIndex": 8,
@@ -192,8 +197,8 @@
         "quality_update_weight_q50": 90,
         "quality_update_weight_q75": 100,
         "quality_update_weight_q100": 100,
-        "minimum_player_count": 1,
-        "maximum_player_count": 1,
+        "minimum_player_count": 3,
+        "maximum_player_count": 5,
         "team_count": 0,
         "minimum_team_size": 0,
         "maximum_team_size": 0,

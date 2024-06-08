@@ -18,7 +18,7 @@ build_script:
   #- tools\SunriseBlfTool.exe blf json\storage\title\tracked\10015 blf\storage\title\tracked\10015 10015
   #- tools\SunriseBlfTool.exe blf json\storage\title\tracked\09699 blf\storage\title\tracked\09699 09699
   - tools\SunriseBlfTool.exe blf json\storage\title\tracked\08172 blf\storage\title\tracked\08172 08172
-  #- tools\SunriseBlfTool.exe blf json\storage\title\tracked\06481 blf\storage\title\tracked\06481 06481
+  - tools\SunriseBlfTool.exe blf json\storage\title\tracked\06481 blf\storage\title\tracked\06481 06481
   - 7z a content.zip .\json\*
   - 7z a content.zip .\blf\*
 artifacts:
