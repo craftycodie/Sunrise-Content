@@ -1,0 +1,6750 @@
+{
+  "mhcf": {
+    "categories": [
+      {
+        "unknown1": 0,
+        "category_name": "Standard",
+        "unknown2": 0,
+        "unknown_string": "matchmaking_tip_strings"
+      },
+      {
+        "unknown1": 1,
+        "category_name": "Evolved",
+        "unknown2": 1,
+        "unknown_string": "matchmaking_tip_strings"
+      },
+      {
+        "unknown1": 2,
+        "category_name": "Anniversary",
+        "unknown2": 2,
+        "unknown_string": "matchmaking_tip_strings"
+      },
+      {
+        "unknown1": 3,
+        "category_name": "Community",
+        "unknown2": 3,
+        "unknown_string": "7th column"
+      },
+      {
+        "unknown1": 4,
+        "category_name": "Cooperative",
+        "unknown2": 4,
+        "unknown_string": "swirly icon"
+      },
+      {
+        "unknown1": 5,
+        "category_name": "Arena",
+        "unknown2": 5,
+        "unknown_string": "star.  #6 is arrows. It has bee"
+      },
+      {
+        "unknown1": 6,
+        "category_name": "Unused",
+        "unknown2": 6,
+        "unknown_string": "matchmaking_tip_strings"
+      }
+    ],
+    "configurations": [
+      {
+        "name": "Team Slayer",
+        "identifier": 102,
+        "category": 0,
+        "gap38": 65536,
+        "dword3C": 2,
+        "dword40": 3,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 8,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 219883573,
+        "gapF0_2": 1129340260,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 20,
+            "gap4": 16777216,
+            "dword8": 10,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 20,
+            "gap4": 16777216,
+            "dword8": 15,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Super Slayer",
+        "identifier": 146,
+        "category": 1,
+        "gap38": 16842752,
+        "dword3C": 2,
+        "dword40": 5,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 4,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 1,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 219883573,
+        "gapF0_2": 1129340260,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 30,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 3,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 0,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Team Objective",
+        "identifier": 105,
+        "category": 1,
+        "gap38": 16842752,
+        "dword3C": 2,
+        "dword40": 6,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 10,
+        "dword78": 1,
+        "dword7C": 4,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 185933867,
+        "gapF0_2": 893406037,
+        "gapF0_3": 1617166336,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 10,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 40,
+            "gap4": 16777216,
+            "dword8": 40,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 4,
+            "unknown2": 5,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 4,
+            "unknown2": 5,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Rumble Pit",
+        "identifier": 101,
+        "category": 1,
+        "gap38": 16842752,
+        "dword3C": 1,
+        "dword40": 2,
+        "gap44": 33554432,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 8,
+        "dword78": 1,
+        "dword7C": 4,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 219883573,
+        "gapF0_2": 1129340260,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 16777216,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 5,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 30,
+            "gap4": 16777216,
+            "dword8": 20,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 65536,
+        "dword388": 6,
+        "dword38C": 8,
+        "dword390": 0,
+        "dword394": 0,
+        "dword398": 0,
+        "per_team_data": [
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Team Swat",
+        "identifier": 110,
+        "category": 0,
+        "gap38": 65536,
+        "dword3C": 2,
+        "dword40": 27,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 8,
+        "dword78": 1,
+        "dword7C": 4,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 219883573,
+        "gapF0_2": 1129340260,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 5,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 25,
+            "gap4": 16777216,
+            "dword8": 15,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 25,
+            "gap4": 16777216,
+            "dword8": 20,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Team Snipers",
+        "identifier": 111,
+        "category": 0,
+        "gap38": 65536,
+        "dword3C": 2,
+        "dword40": 28,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 8,
+        "dword78": 1,
+        "dword7C": 4,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 2,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 219883573,
+        "gapF0_2": 1129340260,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 25,
+            "gap4": 16777216,
+            "dword8": 15,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 30,
+            "gap4": 16777216,
+            "dword8": 20,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Double Team",
+        "identifier": 133,
+        "category": 1,
+        "gap38": 16842752,
+        "dword3C": 2,
+        "dword40": 24,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 2,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 1,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 456478820,
+        "gapF0_2": 0,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 5,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.024,
+              0.024,
+              0.048,
+              0.06666667,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27733332,
+              0.27733332,
+              0.27733332,
+              0.0,
+              0.0,
+              0.0026666666,
+              0.0,
+              0.0026666666,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.024,
+              0.024,
+              0.048,
+              0.06666667,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27733332,
+              0.27733332,
+              0.27733332,
+              0.0,
+              0.0,
+              0.0026666666,
+              0.0,
+              0.0026666666,
+              0.0
+            ]
+          },
+          {
+            "dword0": 30,
+            "gap4": 16777216,
+            "dword8": 20,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.024,
+              0.024,
+              0.048,
+              0.06666667,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27733332,
+              0.27733332,
+              0.27733332,
+              0.0,
+              0.0,
+              0.0026666666,
+              0.0,
+              0.0026666666,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.024,
+              0.024,
+              0.048,
+              0.06666667,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27733332,
+              0.27733332,
+              0.27733332,
+              0.0,
+              0.0,
+              0.0026666666,
+              0.0,
+              0.0026666666,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 2,
+            "unknown2": 2,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 2,
+            "unknown2": 2,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 2,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Big Team Battle",
+        "identifier": 109,
+        "category": 1,
+        "gap38": 16842752,
+        "dword3C": 2,
+        "dword40": 10,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 16,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 0,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 118297627,
+        "gapF0_2": 556281653,
+        "gapF0_3": 1011042640,
+        "gapF0_4": 1465738340,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 10,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 30,
+            "gap4": 16777216,
+            "dword8": 20,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 6,
+            "unknown2": 8,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 6,
+            "unknown2": 8,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Multi Team",
+        "identifier": 123,
+        "category": 1,
+        "gap38": 16842752,
+        "dword3C": 2,
+        "dword40": 25,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 12,
+        "dword78": 1,
+        "dword7C": 4,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 152181540,
+        "gapF0_2": 758464071,
+        "gapF0_3": 1348035172,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 10,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 40,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 4,
+        "dword398": 4,
+        "per_team_data": [
+          {
+            "unknown1": 3,
+            "unknown2": 3,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 3,
+            "unknown2": 3,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 3,
+            "unknown2": 3,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 3,
+            "unknown2": 3,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Living Dead",
+        "identifier": 113,
+        "category": 0,
+        "gap38": 65536,
+        "dword3C": 1,
+        "dword40": 11,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 12,
+        "dword78": 1,
+        "dword7C": 4,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 152181540,
+        "gapF0_2": 758464071,
+        "gapF0_3": 1348035172,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 16777216,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 5,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 40,
+            "gap4": 16777216,
+            "dword8": 40,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.023936171,
+              0.023936171,
+              0.047872342,
+              0.06648936,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27659574,
+              0.27659574,
+              0.27659574,
+              0.0,
+              0.0,
+              0.0026595744,
+              0.0026595744,
+              0.0026595744,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 65536,
+        "dword388": 10,
+        "dword38C": 12,
+        "dword390": 0,
+        "dword394": 0,
+        "dword398": 0,
+        "per_team_data": [
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Invasion",
+        "identifier": 103,
+        "category": 0,
+        "gap38": 131072,
+        "dword3C": 3,
+        "dword40": 4,
+        "gap44": 67108864,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 12,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 152181540,
+        "gapF0_2": 758464071,
+        "gapF0_3": 1348035172,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 10,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.024,
+              0.024,
+              0.048,
+              0.06666667,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27733332,
+              0.27733332,
+              0.27733332,
+              0.0,
+              0.0,
+              0.0053333333,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.024,
+              0.024,
+              0.048,
+              0.06666667,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27733332,
+              0.27733332,
+              0.27733332,
+              0.0,
+              0.0,
+              0.0053333333,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 40,
+            "gap4": 16777216,
+            "dword8": 40,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.024,
+              0.024,
+              0.048,
+              0.06666667,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27733332,
+              0.27733332,
+              0.27733332,
+              0.0,
+              0.0,
+              0.0053333333,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.024,
+              0.024,
+              0.048,
+              0.06666667,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27733332,
+              0.27733332,
+              0.27733332,
+              0.0,
+              0.0,
+              0.0053333333,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 6,
+            "unknown2": 6,
+            "unknown3": 3,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 6,
+            "unknown2": 6,
+            "unknown3": 3,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "The Arena",
+        "identifier": 131,
+        "category": 1,
+        "gap38": 16777216,
+        "dword3C": 0,
+        "dword40": 22,
+        "gap44": 150994944,
+        "startTime": 129434511000000000,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 4,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 0,
+        "gap88_1": 1,
+        "gap88_2": 16777216,
+        "gap88_3": 16777216,
+        "gap88_4": 0,
+        "dword98": 2,
+        "dword9C": 1,
+        "dwordA0": 1,
+        "dwordA4": 0,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 33554432,
+        "gapB0_2": 16842752,
+        "gapB0_3": 16777216,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 1,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 16777216,
+        "dwordD4": 64,
+        "dwordD8": 2,
+        "dwordDC": 4,
+        "gapE0": 16777216,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 456478773,
+        "gapF0_2": 0,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 0,
+        "in_match_voice_configuration": 2,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 10,
+            "gap4": 16777216,
+            "dword8": 8,
+            "gapC": 0,
+            "dword10": 1056964608,
+            "gap14": 0,
+            "dword18": 1150681088,
+            "dword1C": 1150681088,
+            "dword20": 1150681088,
+            "gap24": 65536,
+            "dword28": 150,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1008981770,
+                "unknown2": 50,
+                "unknown3": 100
+              },
+              {
+                "unknown1": 1000593162,
+                "unknown2": 100,
+                "unknown3": 150
+              }
+            ],
+            "unknown2": [
+              0.04761905,
+              0.023809524,
+              0.04761905,
+              0.04761905,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27513227,
+              0.27513227,
+              0.27513227,
+              0.0,
+              0.0,
+              0.0026455026,
+              0.0026455026,
+              0.0026455026,
+              0.0
+            ]
+          },
+          {
+            "dword0": 15,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 150,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1008981770,
+                "unknown2": 50,
+                "unknown3": 150
+              },
+              {
+                "unknown1": 1017370378,
+                "unknown2": 150,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.04761905,
+              0.023809524,
+              0.04761905,
+              0.04761905,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27513227,
+              0.27513227,
+              0.27513227,
+              0.0,
+              0.0,
+              0.0026455026,
+              0.0026455026,
+              0.0026455026,
+              0.0
+            ]
+          },
+          {
+            "dword0": 10,
+            "gap4": 16777216,
+            "dword8": 6,
+            "gapC": 0,
+            "dword10": 1056964608,
+            "gap14": 0,
+            "dword18": 1150681088,
+            "dword1C": 1150681088,
+            "dword20": 1150681088,
+            "gap24": 0,
+            "dword28": 150,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1008981770,
+                "unknown2": 50,
+                "unknown3": 100
+              },
+              {
+                "unknown1": 1000593162,
+                "unknown2": 100,
+                "unknown3": 150
+              }
+            ],
+            "unknown2": [
+              0.04761905,
+              0.023809524,
+              0.04761905,
+              0.04761905,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27513227,
+              0.27513227,
+              0.27513227,
+              0.0,
+              0.0,
+              0.0026455026,
+              0.0026455026,
+              0.0026455026,
+              0.0
+            ]
+          },
+          {
+            "dword0": 15,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 0,
+            "dword28": 150,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1008981770,
+                "unknown2": 50,
+                "unknown3": 150
+              },
+              {
+                "unknown1": 1017370378,
+                "unknown2": 150,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.04761905,
+              0.023809524,
+              0.04761905,
+              0.04761905,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27513227,
+              0.27513227,
+              0.27513227,
+              0.0,
+              0.0,
+              0.0026455026,
+              0.0026455026,
+              0.0026455026,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 4,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 4,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 3,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 0,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 300,
+            "unknown3": 800
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 1000,
+            "unknown3": 2000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 6000,
+            "unknown3": 6000
+          }
+        ]
+      },
+      {
+        "name": "The Arena",
+        "identifier": 130,
+        "category": 1,
+        "gap38": 16777216,
+        "dword3C": 0,
+        "dword40": 23,
+        "gap44": 150994944,
+        "startTime": 129434511000000000,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 4,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 0,
+        "gap88_1": 1,
+        "gap88_2": 16777216,
+        "gap88_3": 16777216,
+        "gap88_4": 0,
+        "dword98": 2,
+        "dword9C": 1,
+        "dwordA0": 1,
+        "dwordA4": 0,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 33554432,
+        "gapB0_2": 16842752,
+        "gapB0_3": 16842752,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 1,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 16777216,
+        "dwordD4": 64,
+        "dwordD8": 2,
+        "dwordDC": 4,
+        "gapE0": 16777216,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 456478773,
+        "gapF0_2": 0,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 0,
+        "in_match_voice_configuration": 2,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 10,
+            "gap4": 16777216,
+            "dword8": 8,
+            "gapC": 0,
+            "dword10": 1056964608,
+            "gap14": 0,
+            "dword18": 1150681088,
+            "dword1C": 1150681088,
+            "dword20": 1150681088,
+            "gap24": 65536,
+            "dword28": 150,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1008981770,
+                "unknown2": 50,
+                "unknown3": 100
+              },
+              {
+                "unknown1": 1000593162,
+                "unknown2": 100,
+                "unknown3": 150
+              }
+            ],
+            "unknown2": [
+              0.04761905,
+              0.023809524,
+              0.04761905,
+              0.04761905,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27513227,
+              0.27513227,
+              0.27513227,
+              0.0,
+              0.0,
+              0.0026455026,
+              0.0026455026,
+              0.0026455026,
+              0.0
+            ]
+          },
+          {
+            "dword0": 15,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 150,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1008981770,
+                "unknown2": 50,
+                "unknown3": 150
+              },
+              {
+                "unknown1": 1017370378,
+                "unknown2": 150,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.04761905,
+              0.023809524,
+              0.04761905,
+              0.04761905,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27513227,
+              0.27513227,
+              0.27513227,
+              0.0,
+              0.0,
+              0.0026455026,
+              0.0026455026,
+              0.0026455026,
+              0.0
+            ]
+          },
+          {
+            "dword0": 10,
+            "gap4": 16777216,
+            "dword8": 6,
+            "gapC": 0,
+            "dword10": 1056964608,
+            "gap14": 0,
+            "dword18": 1150681088,
+            "dword1C": 1150681088,
+            "dword20": 1150681088,
+            "gap24": 0,
+            "dword28": 150,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1008981770,
+                "unknown2": 50,
+                "unknown3": 100
+              },
+              {
+                "unknown1": 1000593162,
+                "unknown2": 100,
+                "unknown3": 150
+              }
+            ],
+            "unknown2": [
+              0.04761905,
+              0.023809524,
+              0.04761905,
+              0.04761905,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27513227,
+              0.27513227,
+              0.27513227,
+              0.0,
+              0.0,
+              0.0026455026,
+              0.0026455026,
+              0.0026455026,
+              0.0
+            ]
+          },
+          {
+            "dword0": 15,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 0,
+            "dword28": 150,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1008981770,
+                "unknown2": 50,
+                "unknown3": 150
+              },
+              {
+                "unknown1": 1017370378,
+                "unknown2": 150,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.04761905,
+              0.023809524,
+              0.04761905,
+              0.04761905,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27513227,
+              0.27513227,
+              0.27513227,
+              0.0,
+              0.0,
+              0.0026455026,
+              0.0026455026,
+              0.0026455026,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 4,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 4,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 3,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 0,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 300,
+            "unknown3": 800
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 1000,
+            "unknown3": 2000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 6000,
+            "unknown3": 6000
+          }
+        ]
+      },
+      {
+        "name": "Co-Op Campaign",
+        "identifier": 108,
+        "category": 4,
+        "gap38": 67174400,
+        "dword3C": 1,
+        "dword40": 9,
+        "gap44": 33554432,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 2,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 4,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 8,
+        "dwordA4": 7,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 117440512,
+        "gapB0_2": 257,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 65536,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 456478820,
+        "gapF0_2": 0,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 16777216,
+        "dword104": 0,
+        "dword108": 50,
+        "gap10C": 16777216,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 19,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 30,
+        "query_configurations": [
+          {
+            "dword0": 3,
+            "gap4": 16777216,
+            "dword8": 2,
+            "gapC": 16777216,
+            "dword10": 1056964608,
+            "gap14": 16777216,
+            "dword18": 1150681088,
+            "dword1C": 1150681088,
+            "dword20": 1150681088,
+            "gap24": 16842752,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1028443341,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1036831949,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.1304121,
+              0.06416275,
+              0.12780386,
+              0.12780386,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.16692749,
+              0.16692749,
+              0.16692749,
+              0.002608242,
+              0.025039123,
+              0.0,
+              0.0,
+              0.0,
+              0.002608242
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1028443341,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1036831949,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.1304121,
+              0.06416275,
+              0.12780386,
+              0.12780386,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.16692749,
+              0.16692749,
+              0.16692749,
+              0.002608242,
+              0.025039123,
+              0.0,
+              0.0,
+              0.0,
+              0.002608242
+            ]
+          },
+          {
+            "dword0": 3,
+            "gap4": 16777216,
+            "dword8": 2,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1150681088,
+            "dword1C": 1150681088,
+            "dword20": 1150681088,
+            "gap24": 16842752,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1028443341,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1035489772,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.1304121,
+              0.06416275,
+              0.12780386,
+              0.12780386,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.16692749,
+              0.16692749,
+              0.16692749,
+              0.002608242,
+              0.025039123,
+              0.0,
+              0.0,
+              0.0,
+              0.002608242
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1028443341,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1036831949,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.1304121,
+              0.06416275,
+              0.12780386,
+              0.12780386,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.16692749,
+              0.16692749,
+              0.16692749,
+              0.002608242,
+              0.025039123,
+              0.0,
+              0.0,
+              0.0,
+              0.002608242
+            ]
+          }
+        ],
+        "unknown": 33619968,
+        "dword388": 2,
+        "dword38C": 4,
+        "dword390": 0,
+        "dword394": 0,
+        "dword398": 0,
+        "per_team_data": [
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 0,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Score Attack",
+        "identifier": 122,
+        "category": 4,
+        "gap38": 67174400,
+        "dword3C": 4,
+        "dword40": 19,
+        "gap44": 83886080,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 1,
+        "dword78": 1,
+        "dword7C": 1,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 16777216,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 8,
+        "dwordA4": 7,
+        "dwordA8": 2,
+        "dwordAC": 10,
+        "gapB0_1": 117440512,
+        "gapB0_2": 1,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 65536,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 60,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 0,
+        "dwordEC": 120,
+        "gapF0_1": 1677721600,
+        "gapF0_2": 0,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 16777216,
+        "dword104": 0,
+        "dword108": 50,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 30,
+        "query_configurations": [
+          {
+            "dword0": 3,
+            "gap4": 16777216,
+            "dword8": 2,
+            "gapC": 16777216,
+            "dword10": 1056964608,
+            "gap14": 16777216,
+            "dword18": 1150681088,
+            "dword1C": 1150681088,
+            "dword20": 1150681088,
+            "gap24": 16842752,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1028443341,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1036831949,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.1304121,
+              0.06416275,
+              0.12780386,
+              0.12780386,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.16692749,
+              0.16692749,
+              0.16692749,
+              0.002608242,
+              0.025039123,
+              0.0,
+              0.0,
+              0.0,
+              0.002608242
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1028443341,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1036831949,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.1304121,
+              0.06416275,
+              0.12780386,
+              0.12780386,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.16692749,
+              0.16692749,
+              0.16692749,
+              0.002608242,
+              0.025039123,
+              0.0,
+              0.0,
+              0.0,
+              0.002608242
+            ]
+          },
+          {
+            "dword0": 3,
+            "gap4": 16777216,
+            "dword8": 2,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1150681088,
+            "dword1C": 1150681088,
+            "dword20": 1150681088,
+            "gap24": 16842752,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1028443341,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1035489772,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.1304121,
+              0.06416275,
+              0.12780386,
+              0.12780386,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.16692749,
+              0.16692749,
+              0.16692749,
+              0.002608242,
+              0.025039123,
+              0.0,
+              0.0,
+              0.0,
+              0.002608242
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1028443341,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1036831949,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.1304121,
+              0.06416275,
+              0.12780386,
+              0.12780386,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.0046948357,
+              0.16692749,
+              0.16692749,
+              0.16692749,
+              0.002608242,
+              0.025039123,
+              0.0,
+              0.0,
+              0.0,
+              0.002608242
+            ]
+          }
+        ],
+        "unknown": 16777216,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 1,
+        "dword398": 1,
+        "per_team_data": [
+          {
+            "unknown1": 1,
+            "unknown2": 1,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 0,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Firefight",
+        "identifier": 112,
+        "category": 4,
+        "gap38": 67174400,
+        "dword3C": 4,
+        "dword40": 16,
+        "gap44": 83886080,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 4,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 3,
+        "dwordA4": 2,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 117440512,
+        "gapB0_2": 257,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 65536,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 456478820,
+        "gapF0_2": 0,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 16777216,
+        "dword104": 0,
+        "dword108": 50,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 30,
+        "query_configurations": [
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 990057071,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1002740646,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.0,
+              0.004881025,
+              0.014643075,
+              0.014643075,
+              0.00030506405,
+              0.00030506405,
+              0.00030506405,
+              0.00030506405,
+              0.3172666,
+              0.3172666,
+              0.3172666,
+              0.0024405124,
+              0.004881025,
+              0.0,
+              0.0024405124,
+              0.0024405124,
+              0.0006101281
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 990057071,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1002740646,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.0,
+              0.004881025,
+              0.014643075,
+              0.014643075,
+              0.00030506405,
+              0.00030506405,
+              0.00030506405,
+              0.00030506405,
+              0.3172666,
+              0.3172666,
+              0.3172666,
+              0.0024405124,
+              0.004881025,
+              0.0,
+              0.0024405124,
+              0.0024405124,
+              0.0006101281
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 990057071,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1002740646,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.0,
+              0.004881025,
+              0.014643075,
+              0.014643075,
+              0.00030506405,
+              0.00030506405,
+              0.00030506405,
+              0.00030506405,
+              0.3172666,
+              0.3172666,
+              0.3172666,
+              0.0024405124,
+              0.004881025,
+              0.0,
+              0.0024405124,
+              0.0024405124,
+              0.0006101281
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 990057071,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1002740646,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.0,
+              0.004881025,
+              0.014643075,
+              0.014643075,
+              0.00030506405,
+              0.00030506405,
+              0.00030506405,
+              0.00030506405,
+              0.3172666,
+              0.3172666,
+              0.3172666,
+              0.0024405124,
+              0.004881025,
+              0.0,
+              0.0024405124,
+              0.0024405124,
+              0.0006101281
+            ]
+          }
+        ],
+        "unknown": 16777216,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 1,
+        "dword398": 1,
+        "per_team_data": [
+          {
+            "unknown1": 2,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 0,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "MLG",
+        "identifier": 114,
+        "category": 3,
+        "gap38": 50397184,
+        "dword3C": 2,
+        "dword40": 14,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 8,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 2,
+        "dword9C": 1,
+        "dwordA0": 3,
+        "dwordA4": 2,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65537,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 219883573,
+        "gapF0_2": 1129340260,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 10,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.02406417,
+              0.02406417,
+              0.04812834,
+              0.06684492,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27807486,
+              0.27807486,
+              0.27807486,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0026737968,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.02406417,
+              0.02406417,
+              0.04812834,
+              0.06684492,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27807486,
+              0.27807486,
+              0.27807486,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0026737968,
+              0.0
+            ]
+          },
+          {
+            "dword0": 30,
+            "gap4": 16777216,
+            "dword8": 20,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.02406417,
+              0.02406417,
+              0.04812834,
+              0.06684492,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27807486,
+              0.27807486,
+              0.27807486,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0026737968,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.02406417,
+              0.02406417,
+              0.04812834,
+              0.06684492,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27807486,
+              0.27807486,
+              0.27807486,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0026737968,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 4,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 4,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Grifball",
+        "identifier": 126,
+        "category": 3,
+        "gap38": 50397184,
+        "dword3C": 2,
+        "dword40": 1,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 8,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 219883573,
+        "gapF0_2": 1129340260,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 10,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.024128687,
+              0.024128687,
+              0.048257373,
+              0.06702413,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27882037,
+              0.27882037,
+              0.27882037,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.024128687,
+              0.024128687,
+              0.048257373,
+              0.06702413,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27882037,
+              0.27882037,
+              0.27882037,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 40,
+            "gap4": 16777216,
+            "dword8": 30,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.024128687,
+              0.024128687,
+              0.048257373,
+              0.06702413,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27882037,
+              0.27882037,
+              0.27882037,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.024128687,
+              0.024128687,
+              0.048257373,
+              0.06702413,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27882037,
+              0.27882037,
+              0.27882037,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 4,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 4,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      },
+      {
+        "name": "Anniversary Classic",
+        "identifier": 205,
+        "category": 2,
+        "gap38": 33619968,
+        "dword3C": 2,
+        "dword40": 20,
+        "gap44": 50331648,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 8,
+        "dword78": 1,
+        "dword7C": 4,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 2,
+        "dwordA4": 1,
+        "dwordA8": 0,
+        "dwordAC": 15,
+        "gapB0_1": 100663296,
+        "gapB0_2": 65793,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 0,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 219883573,
+        "gapF0_2": 1129340260,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 0,
+        "dword104": 0,
+        "dword108": 0,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 20,
+        "query_configurations": [
+          {
+            "dword0": 35,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.024128687,
+              0.024128687,
+              0.048257373,
+              0.06702413,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27882037,
+              0.27882037,
+              0.27882037,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.024128687,
+              0.024128687,
+              0.048257373,
+              0.06702413,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27882037,
+              0.27882037,
+              0.27882037,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 30,
+            "gap4": 16777216,
+            "dword8": 25,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 160,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1000593162,
+                "unknown2": 60,
+                "unknown3": 110
+              },
+              {
+                "unknown1": 1008981770,
+                "unknown2": 110,
+                "unknown3": 160
+              }
+            ],
+            "unknown2": [
+              0.024128687,
+              0.024128687,
+              0.048257373,
+              0.06702413,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27882037,
+              0.27882037,
+              0.27882037,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 0,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 175,
+            "dword2C": 100,
+            "dword30": 8,
+            "unknown1": 16777216,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 1014350479,
+                "unknown2": 75,
+                "unknown3": 175
+              },
+              {
+                "unknown1": 1020054733,
+                "unknown2": 175,
+                "unknown3": 300
+              }
+            ],
+            "unknown2": [
+              0.024128687,
+              0.024128687,
+              0.048257373,
+              0.06702413,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.27882037,
+              0.27882037,
+              0.27882037,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ],
+        "unknown": 0,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 2,
+        "dword398": 2,
+        "per_team_data": [
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 3,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 1,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 300,
+            "unknown3": 800
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 1000,
+            "unknown3": 2000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 6000,
+            "unknown3": 6000
+          }
+        ]
+      },
+      {
+        "name": "Anniversary Firefight",
+        "identifier": 204,
+        "category": 2,
+        "gap38": 33619968,
+        "dword3C": 4,
+        "dword40": 13,
+        "gap44": 83886080,
+        "startTime": 0,
+        "endTime": 0,
+        "dword58": 0,
+        "dword5C": 0,
+        "dword60": 0,
+        "dword64": 0,
+        "dword68": 0,
+        "dword6C": 21,
+        "dword70": 1,
+        "dword74": 4,
+        "dword78": 1,
+        "dword7C": 2,
+        "hopper_access_bit": 4294967295,
+        "account_type_access": 2,
+        "gap88_1": 0,
+        "gap88_2": 0,
+        "gap88_3": 16777472,
+        "gap88_4": 0,
+        "dword98": 3,
+        "dword9C": 1,
+        "dwordA0": 3,
+        "dwordA4": 2,
+        "dwordA8": 2,
+        "dwordAC": 15,
+        "gapB0_1": 117440512,
+        "gapB0_2": 257,
+        "gapB0_3": 0,
+        "dwordBC": 0,
+        "dwordC0": 0,
+        "gapC4": 65536,
+        "dwordC8": 3,
+        "post_match_countdown_time_seconds": 20,
+        "gapD0": 0,
+        "dwordD4": 0,
+        "dwordD8": 0,
+        "dwordDC": 0,
+        "gapE0": 0,
+        "dwordE4": 15,
+        "dwordE8": 30,
+        "dwordEC": 120,
+        "gapF0_1": 456478820,
+        "gapF0_2": 0,
+        "gapF0_3": 0,
+        "gapF0_4": 0,
+        "gapF0_5": 16777216,
+        "dword104": 0,
+        "dword108": 50,
+        "gap10C": 0,
+        "dword110": 1077936128,
+        "dword114": 1065353216,
+        "dword118": 1028443341,
+        "dword11C": 1,
+        "pre_match_voice_configuration": 1,
+        "in_match_voice_configuration": 0,
+        "post_match_voice_configuration": 1,
+        "gap12C": 0,
+        "dword130": 30,
+        "query_configurations": [
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 990057071,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1002740646,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.0,
+              0.0049049663,
+              0.014714899,
+              0.014714899,
+              0.0003065604,
+              0.0003065604,
+              0.0003065604,
+              0.0003065604,
+              0.3188228,
+              0.3188228,
+              0.3188228,
+              0.0024524832,
+              0.0049049663,
+              0.0,
+              0.0,
+              0.0,
+              0.0006131208
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 990057071,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1002740646,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.0,
+              0.0049049663,
+              0.014714899,
+              0.014714899,
+              0.0003065604,
+              0.0003065604,
+              0.0003065604,
+              0.0003065604,
+              0.3188228,
+              0.3188228,
+              0.3188228,
+              0.0024524832,
+              0.0049049663,
+              0.0,
+              0.0,
+              0.0,
+              0.0006131208
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 990057071,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1002740646,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.0,
+              0.0049049663,
+              0.014714899,
+              0.014714899,
+              0.0003065604,
+              0.0003065604,
+              0.0003065604,
+              0.0003065604,
+              0.3188228,
+              0.3188228,
+              0.3188228,
+              0.0024524832,
+              0.0049049663,
+              0.0,
+              0.0,
+              0.0,
+              0.0006131208
+            ]
+          },
+          {
+            "dword0": 50,
+            "gap4": 0,
+            "dword8": 0,
+            "gapC": 0,
+            "dword10": 0,
+            "gap14": 16777216,
+            "dword18": 1176256512,
+            "dword1C": 1176256512,
+            "dword20": 1176256512,
+            "gap24": 65536,
+            "dword28": 100,
+            "dword2C": 0,
+            "dword30": 0,
+            "unknown1": 0,
+            "latency_desirability_configurations": [
+              {
+                "unknown1": 990057071,
+                "unknown2": 25,
+                "unknown3": 50
+              },
+              {
+                "unknown1": 1002740646,
+                "unknown2": 50,
+                "unknown3": 100
+              }
+            ],
+            "unknown2": [
+              0.0,
+              0.0049049663,
+              0.014714899,
+              0.014714899,
+              0.0003065604,
+              0.0003065604,
+              0.0003065604,
+              0.0003065604,
+              0.3188228,
+              0.3188228,
+              0.3188228,
+              0.0024524832,
+              0.0049049663,
+              0.0,
+              0.0,
+              0.0,
+              0.0006131208
+            ]
+          }
+        ],
+        "unknown": 16777216,
+        "dword388": 0,
+        "dword38C": 0,
+        "dword390": 0,
+        "dword394": 1,
+        "dword398": 1,
+        "per_team_data": [
+          {
+            "unknown1": 2,
+            "unknown2": 4,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          },
+          {
+            "unknown1": 0,
+            "unknown2": 0,
+            "unknown3": 0,
+            "unknown4": 0
+          }
+        ],
+        "dword41C": 0,
+        "dword420": 0,
+        "dword424": 0,
+        "gap428": 0,
+        "dword42C": 0,
+        "dword430": 120,
+        "jackpot_configurations": [
+          {
+            "unknown1": 75,
+            "unknown2": 150,
+            "unknown3": 400
+          },
+          {
+            "unknown1": 20,
+            "unknown2": 500,
+            "unknown3": 1000
+          },
+          {
+            "unknown1": 5,
+            "unknown2": 3000,
+            "unknown3": 3000
+          }
+        ]
+      }
+    ]
+  }
+}
