@@ -1,0 +1,141 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_slayer",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_crazy_king",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_crazy_king",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_crazy_king",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2v2_vip",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2v2_vip",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "2v2_vip",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_swords",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_swords",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 4,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "2v2_team_swords",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      }
+    ]
+  }
+}

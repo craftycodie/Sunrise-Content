@@ -1,0 +1,358 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_guardian"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_snowbound"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_epitaph"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_construct"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_pit"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_foundry"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_ground"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_isolation"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_narrows"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_rats_nest"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_blackout"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_ghost_town"
+      },
+      {
+        "gameEntryWeight": 5,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_cold_storage"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_assembly"
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_orbital"
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "sandbox_tundra_swat"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_citadel"
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_swat",
+        "mapVariantFileName": "swat_heretic"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_guardian"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_construct"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_pit"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_foundry"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_isolation"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_blackout"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_ghost_town"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_cold_storage"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_assembly"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_citadel"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_magnums",
+        "mapVariantFileName": "swat_heretic"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_shotguns",
+        "mapVariantFileName": "swat_guardian"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_shotguns",
+        "mapVariantFileName": "swat_epitaph"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_shotguns",
+        "mapVariantFileName": "swat_blackout"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_shotguns",
+        "mapVariantFileName": "swat_snowbound"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_shotguns",
+        "mapVariantFileName": "swat_ghost_town"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_shotguns",
+        "mapVariantFileName": "swat_cold_storage"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_shotguns",
+        "mapVariantFileName": "swat_assembly"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_shotguns",
+        "mapVariantFileName": "sandbox_tundra_swat"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_2flag",
+        "mapVariantFileName": "swat_snowbound"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_2flag",
+        "mapVariantFileName": "swat_pit"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_2flag",
+        "mapVariantFileName": "swat_assembly"
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_oddball",
+        "mapVariantFileName": "swat_snowbound"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_oddball",
+        "mapVariantFileName": "swat_pit"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_oddball",
+        "mapVariantFileName": "swat_foundry"
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "team_swat_oddball",
+        "mapVariantFileName": "swat_assembly"
+      }
+    ]
+  }
+}

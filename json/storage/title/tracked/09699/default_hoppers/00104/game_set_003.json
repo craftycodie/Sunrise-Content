@@ -1,0 +1,240 @@
+{
+  "gset": {
+    "gameEntries": [
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_ctf",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "1_side_assault",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 2,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "neutral_assault",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "5v5_vip",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "5v5_vip",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 1,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": true,
+        "optional": false,
+        "gameVariantFileName": "5v5_vip",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "territories",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "territories",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "territories",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "land_grab",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "land_grab",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 4,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "land_grab",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 7,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 6,
+        "minimumPlayerCount": 8,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "multi_flag_ctf_br",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "deadlock",
+        "mapId": 310
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "snowbound",
+        "mapId": 360
+      },
+      {
+        "gameEntryWeight": 3,
+        "minimumPlayerCount": 6,
+        "skipAfterVeto": false,
+        "optional": false,
+        "gameVariantFileName": "team_oddball",
+        "mapVariantFileName": "riverworld",
+        "mapId": 340
+      }
+    ]
+  }
+}
