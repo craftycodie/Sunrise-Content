@@ -447,7 +447,7 @@
         "minimum_grade": 0,
         "maximum_grade": 21,
         "min_party_size": 1,
-        "max_party_size": 4,
+        "max_party_size": 8,
         "min_local_players": 1,
         "max_local_players": 2,
         "hopper_access_bit": 4294967295,
@@ -780,7 +780,7 @@
           }
         ],
         "maximum_team_imbalance": 0,
-        "big_squad_size_threshold": 3,
+        "big_squad_size_threshold": 0,
         "dword424": 0,
         "gap428": 0,
         "undersized_party_split_permissions": 1,
@@ -2675,7 +2675,7 @@
           }
         ],
         "maximum_team_imbalance": 0,
-        "big_squad_size_threshold": 2,
+        "big_squad_size_threshold": 0,
         "dword424": 0,
         "gap428": 0,
         "undersized_party_split_permissions": 1,
@@ -4570,7 +4570,7 @@
           }
         ],
         "maximum_team_imbalance": 0,
-        "big_squad_size_threshold": 3,
+        "big_squad_size_threshold": 0,
         "dword424": 0,
         "gap428": 0,
         "undersized_party_split_permissions": 0,
@@ -4949,7 +4949,7 @@
           }
         ],
         "maximum_team_imbalance": 0,
-        "big_squad_size_threshold": 3,
+        "big_squad_size_threshold": 0,
         "dword424": 0,
         "gap428": 0,
         "undersized_party_split_permissions": 0,
