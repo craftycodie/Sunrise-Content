@@ -58,7 +58,7 @@
         "requires_all_downloadable_maps": true,
         "veto_enabled": true,
         "guests_allowed": false,
-        "require_hosts_on_multiple_teams": false,
+        "require_hosts_on_multiple_teams": true,
         "stats_write": 1,
         "language_filter": 1,
         "country_code_filter": 1,
@@ -227,7 +227,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Team Slayer",
@@ -264,7 +264,7 @@
         "requires_all_downloadable_maps": true,
         "veto_enabled": true,
         "guests_allowed": false,
-        "require_hosts_on_multiple_teams": false,
+        "require_hosts_on_multiple_teams": true,
         "stats_write": 1,
         "language_filter": 1,
         "country_code_filter": 1,
@@ -433,7 +433,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Social Doubles",
@@ -470,7 +470,7 @@
         "requires_all_downloadable_maps": true,
         "veto_enabled": true,
         "guests_allowed": false,
-        "require_hosts_on_multiple_teams": false,
+        "require_hosts_on_multiple_teams": true,
         "stats_write": 1,
         "language_filter": 1,
         "country_code_filter": 1,
@@ -639,7 +639,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Team Snipers",
@@ -676,7 +676,7 @@
         "requires_all_downloadable_maps": true,
         "veto_enabled": true,
         "guests_allowed": false,
-        "require_hosts_on_multiple_teams": false,
+        "require_hosts_on_multiple_teams": true,
         "stats_write": 1,
         "language_filter": 1,
         "country_code_filter": 1,
@@ -845,7 +845,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "MLG",
@@ -882,7 +882,7 @@
         "requires_all_downloadable_maps": true,
         "veto_enabled": true,
         "guests_allowed": false,
-        "require_hosts_on_multiple_teams": false,
+        "require_hosts_on_multiple_teams": true,
         "stats_write": 1,
         "language_filter": 1,
         "country_code_filter": 1,
@@ -1051,7 +1051,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Social Swat",
@@ -1257,7 +1257,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Basic Training",
@@ -1463,7 +1463,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Rumble Pit",
@@ -1669,7 +1669,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Social Slayer",
@@ -2699,7 +2699,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Team Mythic",
@@ -3317,7 +3317,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Quick Match",
@@ -3523,7 +3523,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Living Dead",
@@ -3729,7 +3729,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Rocket Race",
@@ -4141,7 +4141,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Ranked Grifball",
@@ -4347,7 +4347,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Maption Sack",
@@ -4759,7 +4759,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       },
       {
         "name": "Mythic Brawl",
@@ -4965,7 +4965,7 @@
         "maximum_big_squad_imbalance": 0,
         "enable_big_squad_mixed_skill_restrictions": false,
         "allow_uneven_teams": false,
-        "allow_parties_to_split": false
+        "allow_parties_to_split": true
       }
     ]
   }
