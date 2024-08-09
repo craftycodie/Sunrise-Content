@@ -3,7 +3,7 @@
     "oddball": {
       "autoBallPickup": false,
       "ballEffectEnabled": false,
-      "scoreToWin": 100,
+      "scoreToWin": 50,
       "carryingPoints": "ONE_POINT",
       "killPoints": "ZERO_POINTS",
       "ballKillPoints": "ZERO_POINTS",
@@ -37,7 +37,7 @@
       "metadata": {
         "uniqueId": 0,
         "name": "5-min Oddball",
-        "description": "Free for all. Hold the skull to earn points. 30 points to win.",
+        "description": "Free for all. Hold the skull to earn points. 75 points to win.",
         "author": "",
         "fileType": "GAME_VARIANT_ODDBALL",
         "authorIsXuidOnline": false,
